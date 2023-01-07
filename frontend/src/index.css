@@ -1,0 +1,380 @@
+.logoutBtn {
+    float: right;
+    padding: 10px;
+    border-radius: 3px;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+    font-size: 15px;
+    width: 100px;
+    border: none;
+}
+
+.loginPage {
+    display: block;
+    margin-top: auto;
+}
+
+.loginPage--title {
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 150px;
+}
+
+.loginPage--formDiv {
+    display: block;
+    text-align: center;
+}
+
+.loginPage--loginForm {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.loginPage--label {
+
+}
+
+.loginPage--passwordDiv {
+    position: relative;
+}
+
+.loginPage--showPasswordIcon, .loginPage--hidePasswordIcon {
+    height: 20px;
+    position: absolute;
+    bottom: 19px;
+    right: 10px;
+    cursor: pointer;
+}
+
+.loginPage--hidePasswordIcon {
+    height: 23px;
+    bottom: 17px;
+    right: 9.5px;
+}
+
+.loginPage--errorMessage, .userRegister--errorMessage, .createList--errorMessage, .editList--errorMessage {
+    margin: 0;
+    color: red;
+    
+}
+
+.loginPage--textbox, .userRegister--textbox, .createList--textbox, .editList--textbox {
+    padding: 10px;
+    margin: 10px 0;
+    width: 250px;
+    border-radius: 10px;
+    border-width: 1.5px;
+}
+
+.loginPage--loginBtn {
+    width: 275px;
+    padding: 10px;
+    margin-top: 5px;
+    cursor: pointer;
+
+}
+
+.loginPage--registerBtn {
+    margin-top: 20px;
+}
+
+.userRegister--title, .createList--title, .editList--title {
+    margin-bottom: 40px;
+}
+
+.userRegister--registerBtn, .createList--createListBtn, .editItem--removeItemBtn, .editList--deleteListBtn {
+    margin-top: 40px;
+    margin-bottom: 75px;
+    padding: 10px;
+    border-radius: 6px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    font-size: 17px;
+    width: 100px;
+}
+
+.createList--createListBtn, .editItem--removeItemBtn, .editList--deleteListBtn {
+    background-color: burlywood;
+    width: 140px;
+    height: 45px;
+    color: black;
+    padding: 0;
+    font-size: 16px;
+    margin-top: 70px;
+}
+
+
+
+.viewLists--createListBtn {
+    padding: 0px;
+    border-radius: 6px;
+    background-color: burlywood;
+    color: black;
+    cursor: pointer;
+    font-size: 18px;
+    text-align: center;
+    width: 400px;
+    height: 50px;
+    margin-top: 10px;
+}
+
+.viewLists--listContainer {
+    /*display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;*/
+}
+
+
+
+.viewLists--listAndEditBtns {
+
+}
+
+.viewLists--listTitle, .viewLists--sortTitleBtn, .viewLists--sortNumItemsBtn {
+    text-align: left;
+    margin-top: 0px;
+    height: 50px;
+    width: 30%;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-color: grey;
+    border-width: thin;
+    background-color: white;
+    cursor: pointer;
+    float: left;
+}
+
+.viewLists--sortNumItemsBtn {
+    width: 10%;
+    text-align: center;
+}
+
+.viewLists--listNumItems {
+    text-align: center;
+    margin-top: 3.5px;
+    height: 30.5px;
+    width: 10%;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-bottom: solid;
+    border-width: thin;
+    background-color: white;
+    float: left;
+    padding-top: 15px;
+}
+
+.viewLists--editListBtn, .viewLists--editLabel {
+    height: 50px;
+    width: 100px;
+    margin-top: 0px;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-color: grey;
+    border-width: thin;
+    background-color: white;
+    cursor: pointer;
+}
+
+.viewLists--sortTitleBtn, .viewLists--sortNumItemsBtn, .viewLists--editLabel {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.viewLists--editLabel {
+    cursor: auto;
+}
+
+.editList--trashcanIcon {
+    height: 25px;
+    position: absolute;
+    bottom: 271px;
+    right: 641px;
+    cursor: pointer;
+}
+
+.editList--deleteListYes, .editList--deleteListNo {
+    width: 120px;
+    height: 40px;
+    margin: 0;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+.editList--deleteListYes {
+    margin-right: 17px;
+    margin-left: 10px;
+}
+
+.editList--deleteListNo {
+    margin-left: 17px;
+}
+
+
+.editItem--removeItemBtn, .editList--deleteListBtn {
+    background-color: #F22951;
+    color: white;
+    padding-left: 20px;
+    font-size: 13px;
+    cursor: pointer;
+    border: none;
+    margin-top: 15px;
+}
+
+
+
+.searchItem--items {
+    display: block;
+    margin: auto;
+    width: 64%;
+}
+
+.listItem--items {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.searchItem--input {
+    text-align: center;
+    margin: auto;
+    display: block;
+    height: 50px;
+    width: 300px;
+    font-size: 25px;
+}
+
+.searchItem--button, .listItem--button {
+    text-align: left;
+
+    margin-top: 10px;
+    height: 50px;
+    width: 400px;
+    cursor: pointer;
+}
+
+.listItem--title {
+    text-align: center;
+}
+
+.listItem--noItemsMsg {
+    text-align: center;
+}
+
+.listItem--category {
+    text-align: center;
+    font-size: 25px;
+    margin: 0;
+    margin-top: 40px;
+}
+
+.listItem--addItemButton {
+    margin: auto;
+    display: block;
+    margin-top: 10px;
+    height: 50px;
+    width: 300px;
+    background-color: aqua;
+    cursor: pointer;
+}
+
+.listItem--editItemButton {
+    margin: 0;
+    margin-top: 10px;
+    height: 50px;
+    width: 75px;
+}
+
+.listItem--itemAndEditButtons {
+    display: flex;
+    margin: auto;
+    gap: 0px;
+    column-gap: 0px;
+}
+
+.listItem--crossedOffMark {
+    color: red;
+}
+
+.editItem--form {
+
+}
+
+.editItem--label, .editList--label {
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.editItem--dropdown {
+    margin-bottom: 10px;
+}
+
+.editItem--textbox, .editList--textbox {
+    margin-bottom: 10px;
+}
+
+.editItem--saveChangesBtn, .editList--saveChangesBtn {
+    margin-top: 60px;
+    background-color: blue;
+    color: white;
+    border-radius: 6px;
+    height: 45px;
+    width: 140px;
+    border: none;
+    cursor: pointer;
+    font-size: 17px;
+}
+
+
+
+.popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin-bottom: 50px;
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.2);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.popup-inner {
+    position: relative;
+    padding: 32px;
+    width: 100%;
+    max-width: 640px;
+    background-color: #FFF;
+    min-height: 500px;
+    max-height: 1000px;
+}
+
+.popup--closeBtn {
+    display: block;
+    margin-left: auto;
+    border: none;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    background-color: white;
+    font-size: 20px;
+}
+
+.smallPopup {
+    position: relative;
+    padding: 32px;
+    width: 100%;
+    max-width: 300px;
+    background-color: #FFF;
+    height: 200px;
+}

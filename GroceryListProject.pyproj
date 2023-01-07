@@ -15,7 +15,7 @@
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
-    <WebBrowserUrl>http://localhost</WebBrowserUrl>
+    <WebBrowserUrl>http://localhost:8000</WebBrowserUrl>
     <LaunchProvider>Django launcher</LaunchProvider>
     <DjangoSettingsModule>GroceryListProject.settings</DjangoSettingsModule>
     <OutputPath>.</OutputPath>
@@ -46,6 +46,12 @@
     <Compile Include="frontend\apps.py" />
     <Compile Include="frontend\migrations\__init__.py" />
     <Compile Include="frontend\models.py" />
+    <Compile Include="frontend\src\components\ErrorPage.js">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="frontend\src\components\SearchItems.js">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="frontend\tests.py" />
     <Compile Include="frontend\urls.py">
       <SubType>Code</SubType>
@@ -61,6 +67,7 @@
   <ItemGroup>
     <Folder Include="app\" />
     <Folder Include="app\migrations\" />
+    <Folder Include="frontend\src\images\" />
     <Folder Include="frontend\templates\" />
     <Folder Include="frontend\src\" />
     <Folder Include="frontend\src\components\" />
@@ -81,13 +88,49 @@
     </Content>
     <Content Include="frontend\package-lock.json" />
     <Content Include="frontend\package.json" />
-    <Content Include="frontend\src\components\app.js">
+    <Content Include="frontend\src\app.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="frontend\src\components\CreateList.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="frontend\src\components\EditItem.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="frontend\src\components\EditListInfo.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="frontend\src\components\Home.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="frontend\src\components\List.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="frontend\src\components\ListPage.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="frontend\src\components\LoginPage.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="frontend\src\components\LogoutButton.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="frontend\src\components\Popup.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="frontend\src\components\UserRegister.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="frontend\src\components\ViewLists.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="frontend\src\images\HidePassword.jpg" />
+    <Content Include="frontend\src\images\trashcan.png" />
+    <Content Include="frontend\src\images\ShowPassword.jpg" />
+    <Content Include="frontend\src\index.css">
       <SubType>Code</SubType>
     </Content>
     <Content Include="frontend\src\index.js">
-      <SubType>Code</SubType>
-    </Content>
-    <Content Include="frontend\static\css\index.css">
       <SubType>Code</SubType>
     </Content>
     <Content Include="frontend\static\frontend\main.js">

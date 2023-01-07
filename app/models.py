@@ -14,3 +14,4 @@ class ListItem(models.Model):
     quantity = models.IntegerField(null=True, default=1)
     crossedOff = models.BooleanField(null=False, default=False)
     note = models.CharField(null=True, max_length=255)
+

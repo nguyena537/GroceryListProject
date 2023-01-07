@@ -1,0 +1,2518 @@
+{
+  "status": "done",
+  "assets": {
+    "12385de9981c59091f86.png": {
+      "name": "12385de9981c59091f86.png",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\12385de9981c59091f86.png",
+      "publicPath": "/static/12385de9981c59091f86.png"
+    },
+    "13397681ed62416ecfe0.jpg": {
+      "name": "13397681ed62416ecfe0.jpg",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\13397681ed62416ecfe0.jpg",
+      "publicPath": "/static/13397681ed62416ecfe0.jpg"
+    },
+    "651f3a24cc58c14e3a84.jpg": {
+      "name": "651f3a24cc58c14e3a84.jpg",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\651f3a24cc58c14e3a84.jpg",
+      "publicPath": "/static/651f3a24cc58c14e3a84.jpg"
+    },
+    "cf3278aee070ac0b4990.png": {
+      "name": "cf3278aee070ac0b4990.png",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\cf3278aee070ac0b4990.png",
+      "publicPath": "/static/cf3278aee070ac0b4990.png"
+    },
+    "d880d6e39921cc42560c.png": {
+      "name": "d880d6e39921cc42560c.png",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\d880d6e39921cc42560c.png",
+      "publicPath": "/static/d880d6e39921cc42560c.png"
+    },
+    "main.01c2c73eaab9721408ab.js": {
+      "name": "main.01c2c73eaab9721408ab.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.01c2c73eaab9721408ab.js",
+      "publicPath": "/static/main.01c2c73eaab9721408ab.js"
+    },
+    "main.01c2c73eaab9721408ab.js.LICENSE.txt": {
+      "name": "main.01c2c73eaab9721408ab.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.01c2c73eaab9721408ab.js.LICENSE.txt",
+      "publicPath": "/static/main.01c2c73eaab9721408ab.js.LICENSE.txt"
+    },
+    "main.02a1cf79bad194ac6778.js": {
+      "name": "main.02a1cf79bad194ac6778.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.02a1cf79bad194ac6778.js",
+      "publicPath": "/static/main.02a1cf79bad194ac6778.js"
+    },
+    "main.02a1cf79bad194ac6778.js.LICENSE.txt": {
+      "name": "main.02a1cf79bad194ac6778.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.02a1cf79bad194ac6778.js.LICENSE.txt",
+      "publicPath": "/static/main.02a1cf79bad194ac6778.js.LICENSE.txt"
+    },
+    "main.02b0945037b04b1f9a2d.js": {
+      "name": "main.02b0945037b04b1f9a2d.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.02b0945037b04b1f9a2d.js",
+      "publicPath": "/static/main.02b0945037b04b1f9a2d.js"
+    },
+    "main.02b0945037b04b1f9a2d.js.LICENSE.txt": {
+      "name": "main.02b0945037b04b1f9a2d.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.02b0945037b04b1f9a2d.js.LICENSE.txt",
+      "publicPath": "/static/main.02b0945037b04b1f9a2d.js.LICENSE.txt"
+    },
+    "main.02c29537ea199e6c0119.js": {
+      "name": "main.02c29537ea199e6c0119.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.02c29537ea199e6c0119.js",
+      "publicPath": "/static/main.02c29537ea199e6c0119.js"
+    },
+    "main.02c29537ea199e6c0119.js.LICENSE.txt": {
+      "name": "main.02c29537ea199e6c0119.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.02c29537ea199e6c0119.js.LICENSE.txt",
+      "publicPath": "/static/main.02c29537ea199e6c0119.js.LICENSE.txt"
+    },
+    "main.02c545e3e13ecef235eb.js": {
+      "name": "main.02c545e3e13ecef235eb.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.02c545e3e13ecef235eb.js",
+      "publicPath": "/static/main.02c545e3e13ecef235eb.js"
+    },
+    "main.02c545e3e13ecef235eb.js.LICENSE.txt": {
+      "name": "main.02c545e3e13ecef235eb.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.02c545e3e13ecef235eb.js.LICENSE.txt",
+      "publicPath": "/static/main.02c545e3e13ecef235eb.js.LICENSE.txt"
+    },
+    "main.05ce44f3253860d9918b.js": {
+      "name": "main.05ce44f3253860d9918b.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.05ce44f3253860d9918b.js",
+      "publicPath": "/static/main.05ce44f3253860d9918b.js"
+    },
+    "main.05ce44f3253860d9918b.js.LICENSE.txt": {
+      "name": "main.05ce44f3253860d9918b.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.05ce44f3253860d9918b.js.LICENSE.txt",
+      "publicPath": "/static/main.05ce44f3253860d9918b.js.LICENSE.txt"
+    },
+    "main.07deead3c986d73c791f.js": {
+      "name": "main.07deead3c986d73c791f.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.07deead3c986d73c791f.js",
+      "publicPath": "/static/main.07deead3c986d73c791f.js"
+    },
+    "main.07deead3c986d73c791f.js.LICENSE.txt": {
+      "name": "main.07deead3c986d73c791f.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.07deead3c986d73c791f.js.LICENSE.txt",
+      "publicPath": "/static/main.07deead3c986d73c791f.js.LICENSE.txt"
+    },
+    "main.0857e0c88323bfd9e7d5.js": {
+      "name": "main.0857e0c88323bfd9e7d5.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.0857e0c88323bfd9e7d5.js",
+      "publicPath": "/static/main.0857e0c88323bfd9e7d5.js"
+    },
+    "main.0857e0c88323bfd9e7d5.js.LICENSE.txt": {
+      "name": "main.0857e0c88323bfd9e7d5.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.0857e0c88323bfd9e7d5.js.LICENSE.txt",
+      "publicPath": "/static/main.0857e0c88323bfd9e7d5.js.LICENSE.txt"
+    },
+    "main.086b1e051303840a9cbb.js": {
+      "name": "main.086b1e051303840a9cbb.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.086b1e051303840a9cbb.js",
+      "publicPath": "/static/main.086b1e051303840a9cbb.js"
+    },
+    "main.086b1e051303840a9cbb.js.LICENSE.txt": {
+      "name": "main.086b1e051303840a9cbb.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.086b1e051303840a9cbb.js.LICENSE.txt",
+      "publicPath": "/static/main.086b1e051303840a9cbb.js.LICENSE.txt"
+    },
+    "main.0b59c187c7c2614f186b.js": {
+      "name": "main.0b59c187c7c2614f186b.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.0b59c187c7c2614f186b.js",
+      "publicPath": "/static/main.0b59c187c7c2614f186b.js"
+    },
+    "main.0b59c187c7c2614f186b.js.LICENSE.txt": {
+      "name": "main.0b59c187c7c2614f186b.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.0b59c187c7c2614f186b.js.LICENSE.txt",
+      "publicPath": "/static/main.0b59c187c7c2614f186b.js.LICENSE.txt"
+    },
+    "main.0eb142a42889992fb004.js": {
+      "name": "main.0eb142a42889992fb004.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.0eb142a42889992fb004.js",
+      "publicPath": "/static/main.0eb142a42889992fb004.js"
+    },
+    "main.0eb142a42889992fb004.js.LICENSE.txt": {
+      "name": "main.0eb142a42889992fb004.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.0eb142a42889992fb004.js.LICENSE.txt",
+      "publicPath": "/static/main.0eb142a42889992fb004.js.LICENSE.txt"
+    },
+    "main.0ed68b0b8d860abb72b8.js": {
+      "name": "main.0ed68b0b8d860abb72b8.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.0ed68b0b8d860abb72b8.js",
+      "publicPath": "/static/main.0ed68b0b8d860abb72b8.js"
+    },
+    "main.0ed68b0b8d860abb72b8.js.LICENSE.txt": {
+      "name": "main.0ed68b0b8d860abb72b8.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.0ed68b0b8d860abb72b8.js.LICENSE.txt",
+      "publicPath": "/static/main.0ed68b0b8d860abb72b8.js.LICENSE.txt"
+    },
+    "main.0f39dc132e50d662b473.js": {
+      "name": "main.0f39dc132e50d662b473.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.0f39dc132e50d662b473.js",
+      "publicPath": "/static/main.0f39dc132e50d662b473.js"
+    },
+    "main.0f39dc132e50d662b473.js.LICENSE.txt": {
+      "name": "main.0f39dc132e50d662b473.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.0f39dc132e50d662b473.js.LICENSE.txt",
+      "publicPath": "/static/main.0f39dc132e50d662b473.js.LICENSE.txt"
+    },
+    "main.10065fdbf499e899e8a0.js": {
+      "name": "main.10065fdbf499e899e8a0.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.10065fdbf499e899e8a0.js",
+      "publicPath": "/static/main.10065fdbf499e899e8a0.js"
+    },
+    "main.10065fdbf499e899e8a0.js.LICENSE.txt": {
+      "name": "main.10065fdbf499e899e8a0.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.10065fdbf499e899e8a0.js.LICENSE.txt",
+      "publicPath": "/static/main.10065fdbf499e899e8a0.js.LICENSE.txt"
+    },
+    "main.109a09976f14324f4952.js": {
+      "name": "main.109a09976f14324f4952.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.109a09976f14324f4952.js",
+      "publicPath": "/static/main.109a09976f14324f4952.js"
+    },
+    "main.109a09976f14324f4952.js.LICENSE.txt": {
+      "name": "main.109a09976f14324f4952.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.109a09976f14324f4952.js.LICENSE.txt",
+      "publicPath": "/static/main.109a09976f14324f4952.js.LICENSE.txt"
+    },
+    "main.10f00fc45be98a475240.js": {
+      "name": "main.10f00fc45be98a475240.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.10f00fc45be98a475240.js",
+      "publicPath": "/static/main.10f00fc45be98a475240.js"
+    },
+    "main.10f00fc45be98a475240.js.LICENSE.txt": {
+      "name": "main.10f00fc45be98a475240.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.10f00fc45be98a475240.js.LICENSE.txt",
+      "publicPath": "/static/main.10f00fc45be98a475240.js.LICENSE.txt"
+    },
+    "main.11325dd636aa03d16364.js": {
+      "name": "main.11325dd636aa03d16364.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.11325dd636aa03d16364.js",
+      "publicPath": "/static/main.11325dd636aa03d16364.js"
+    },
+    "main.11325dd636aa03d16364.js.LICENSE.txt": {
+      "name": "main.11325dd636aa03d16364.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.11325dd636aa03d16364.js.LICENSE.txt",
+      "publicPath": "/static/main.11325dd636aa03d16364.js.LICENSE.txt"
+    },
+    "main.119ca6032839098db828.js": {
+      "name": "main.119ca6032839098db828.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.119ca6032839098db828.js",
+      "publicPath": "/static/main.119ca6032839098db828.js"
+    },
+    "main.119ca6032839098db828.js.LICENSE.txt": {
+      "name": "main.119ca6032839098db828.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.119ca6032839098db828.js.LICENSE.txt",
+      "publicPath": "/static/main.119ca6032839098db828.js.LICENSE.txt"
+    },
+    "main.127d13a3be39d40c3b5f.js": {
+      "name": "main.127d13a3be39d40c3b5f.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.127d13a3be39d40c3b5f.js",
+      "publicPath": "/static/main.127d13a3be39d40c3b5f.js"
+    },
+    "main.127d13a3be39d40c3b5f.js.LICENSE.txt": {
+      "name": "main.127d13a3be39d40c3b5f.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.127d13a3be39d40c3b5f.js.LICENSE.txt",
+      "publicPath": "/static/main.127d13a3be39d40c3b5f.js.LICENSE.txt"
+    },
+    "main.1333dcecc17de6caac15.js": {
+      "name": "main.1333dcecc17de6caac15.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.1333dcecc17de6caac15.js",
+      "publicPath": "/static/main.1333dcecc17de6caac15.js"
+    },
+    "main.1333dcecc17de6caac15.js.LICENSE.txt": {
+      "name": "main.1333dcecc17de6caac15.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.1333dcecc17de6caac15.js.LICENSE.txt",
+      "publicPath": "/static/main.1333dcecc17de6caac15.js.LICENSE.txt"
+    },
+    "main.13b1c958676290bb69cd.js": {
+      "name": "main.13b1c958676290bb69cd.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.13b1c958676290bb69cd.js",
+      "publicPath": "/static/main.13b1c958676290bb69cd.js"
+    },
+    "main.13b1c958676290bb69cd.js.LICENSE.txt": {
+      "name": "main.13b1c958676290bb69cd.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.13b1c958676290bb69cd.js.LICENSE.txt",
+      "publicPath": "/static/main.13b1c958676290bb69cd.js.LICENSE.txt"
+    },
+    "main.167545e66f8ffb42282d.js": {
+      "name": "main.167545e66f8ffb42282d.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.167545e66f8ffb42282d.js",
+      "publicPath": "/static/main.167545e66f8ffb42282d.js"
+    },
+    "main.167545e66f8ffb42282d.js.LICENSE.txt": {
+      "name": "main.167545e66f8ffb42282d.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.167545e66f8ffb42282d.js.LICENSE.txt",
+      "publicPath": "/static/main.167545e66f8ffb42282d.js.LICENSE.txt"
+    },
+    "main.1942b9e05e079c3bdf5e.js": {
+      "name": "main.1942b9e05e079c3bdf5e.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.1942b9e05e079c3bdf5e.js",
+      "publicPath": "/static/main.1942b9e05e079c3bdf5e.js"
+    },
+    "main.1942b9e05e079c3bdf5e.js.LICENSE.txt": {
+      "name": "main.1942b9e05e079c3bdf5e.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.1942b9e05e079c3bdf5e.js.LICENSE.txt",
+      "publicPath": "/static/main.1942b9e05e079c3bdf5e.js.LICENSE.txt"
+    },
+    "main.199f5047a860b291191d.js": {
+      "name": "main.199f5047a860b291191d.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.199f5047a860b291191d.js",
+      "publicPath": "/static/main.199f5047a860b291191d.js"
+    },
+    "main.199f5047a860b291191d.js.LICENSE.txt": {
+      "name": "main.199f5047a860b291191d.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.199f5047a860b291191d.js.LICENSE.txt",
+      "publicPath": "/static/main.199f5047a860b291191d.js.LICENSE.txt"
+    },
+    "main.19f6a9629d0c680f7695.js": {
+      "name": "main.19f6a9629d0c680f7695.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.19f6a9629d0c680f7695.js",
+      "publicPath": "/static/main.19f6a9629d0c680f7695.js"
+    },
+    "main.19f6a9629d0c680f7695.js.LICENSE.txt": {
+      "name": "main.19f6a9629d0c680f7695.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.19f6a9629d0c680f7695.js.LICENSE.txt",
+      "publicPath": "/static/main.19f6a9629d0c680f7695.js.LICENSE.txt"
+    },
+    "main.1ad470e7523a70fe5d1e.js": {
+      "name": "main.1ad470e7523a70fe5d1e.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.1ad470e7523a70fe5d1e.js",
+      "publicPath": "/static/main.1ad470e7523a70fe5d1e.js"
+    },
+    "main.1ad470e7523a70fe5d1e.js.LICENSE.txt": {
+      "name": "main.1ad470e7523a70fe5d1e.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.1ad470e7523a70fe5d1e.js.LICENSE.txt",
+      "publicPath": "/static/main.1ad470e7523a70fe5d1e.js.LICENSE.txt"
+    },
+    "main.1b592bbc3496e6b42325.js": {
+      "name": "main.1b592bbc3496e6b42325.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.1b592bbc3496e6b42325.js",
+      "publicPath": "/static/main.1b592bbc3496e6b42325.js"
+    },
+    "main.1b592bbc3496e6b42325.js.LICENSE.txt": {
+      "name": "main.1b592bbc3496e6b42325.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.1b592bbc3496e6b42325.js.LICENSE.txt",
+      "publicPath": "/static/main.1b592bbc3496e6b42325.js.LICENSE.txt"
+    },
+    "main.1bb3de3320a0df17b1c8.js": {
+      "name": "main.1bb3de3320a0df17b1c8.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.1bb3de3320a0df17b1c8.js",
+      "publicPath": "/static/main.1bb3de3320a0df17b1c8.js"
+    },
+    "main.1bb3de3320a0df17b1c8.js.LICENSE.txt": {
+      "name": "main.1bb3de3320a0df17b1c8.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.1bb3de3320a0df17b1c8.js.LICENSE.txt",
+      "publicPath": "/static/main.1bb3de3320a0df17b1c8.js.LICENSE.txt"
+    },
+    "main.1d44dbe587eb4b018ac8.js": {
+      "name": "main.1d44dbe587eb4b018ac8.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.1d44dbe587eb4b018ac8.js",
+      "publicPath": "/static/main.1d44dbe587eb4b018ac8.js"
+    },
+    "main.1d44dbe587eb4b018ac8.js.LICENSE.txt": {
+      "name": "main.1d44dbe587eb4b018ac8.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.1d44dbe587eb4b018ac8.js.LICENSE.txt",
+      "publicPath": "/static/main.1d44dbe587eb4b018ac8.js.LICENSE.txt"
+    },
+    "main.1de7c7ecbb0b62a38728.js": {
+      "name": "main.1de7c7ecbb0b62a38728.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.1de7c7ecbb0b62a38728.js",
+      "publicPath": "/static/main.1de7c7ecbb0b62a38728.js"
+    },
+    "main.1de7c7ecbb0b62a38728.js.LICENSE.txt": {
+      "name": "main.1de7c7ecbb0b62a38728.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.1de7c7ecbb0b62a38728.js.LICENSE.txt",
+      "publicPath": "/static/main.1de7c7ecbb0b62a38728.js.LICENSE.txt"
+    },
+    "main.1ed9eeef2e8be4aa5209.js": {
+      "name": "main.1ed9eeef2e8be4aa5209.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.1ed9eeef2e8be4aa5209.js",
+      "publicPath": "/static/main.1ed9eeef2e8be4aa5209.js"
+    },
+    "main.1ed9eeef2e8be4aa5209.js.LICENSE.txt": {
+      "name": "main.1ed9eeef2e8be4aa5209.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.1ed9eeef2e8be4aa5209.js.LICENSE.txt",
+      "publicPath": "/static/main.1ed9eeef2e8be4aa5209.js.LICENSE.txt"
+    },
+    "main.1f57240ceac27d00efdd.js": {
+      "name": "main.1f57240ceac27d00efdd.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.1f57240ceac27d00efdd.js",
+      "publicPath": "/static/main.1f57240ceac27d00efdd.js"
+    },
+    "main.1f57240ceac27d00efdd.js.LICENSE.txt": {
+      "name": "main.1f57240ceac27d00efdd.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.1f57240ceac27d00efdd.js.LICENSE.txt",
+      "publicPath": "/static/main.1f57240ceac27d00efdd.js.LICENSE.txt"
+    },
+    "main.202099c5d6331cd41194.js": {
+      "name": "main.202099c5d6331cd41194.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.202099c5d6331cd41194.js",
+      "publicPath": "/static/main.202099c5d6331cd41194.js"
+    },
+    "main.202099c5d6331cd41194.js.LICENSE.txt": {
+      "name": "main.202099c5d6331cd41194.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.202099c5d6331cd41194.js.LICENSE.txt",
+      "publicPath": "/static/main.202099c5d6331cd41194.js.LICENSE.txt"
+    },
+    "main.20be07a07f1e14edbf5f.js": {
+      "name": "main.20be07a07f1e14edbf5f.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.20be07a07f1e14edbf5f.js",
+      "publicPath": "/static/main.20be07a07f1e14edbf5f.js"
+    },
+    "main.20be07a07f1e14edbf5f.js.LICENSE.txt": {
+      "name": "main.20be07a07f1e14edbf5f.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.20be07a07f1e14edbf5f.js.LICENSE.txt",
+      "publicPath": "/static/main.20be07a07f1e14edbf5f.js.LICENSE.txt"
+    },
+    "main.210821a1bc3d1e6a54bd.js": {
+      "name": "main.210821a1bc3d1e6a54bd.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.210821a1bc3d1e6a54bd.js",
+      "publicPath": "/static/main.210821a1bc3d1e6a54bd.js"
+    },
+    "main.210821a1bc3d1e6a54bd.js.LICENSE.txt": {
+      "name": "main.210821a1bc3d1e6a54bd.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.210821a1bc3d1e6a54bd.js.LICENSE.txt",
+      "publicPath": "/static/main.210821a1bc3d1e6a54bd.js.LICENSE.txt"
+    },
+    "main.222978c384ffd09923a7.js": {
+      "name": "main.222978c384ffd09923a7.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.222978c384ffd09923a7.js",
+      "publicPath": "/static/main.222978c384ffd09923a7.js"
+    },
+    "main.222978c384ffd09923a7.js.LICENSE.txt": {
+      "name": "main.222978c384ffd09923a7.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.222978c384ffd09923a7.js.LICENSE.txt",
+      "publicPath": "/static/main.222978c384ffd09923a7.js.LICENSE.txt"
+    },
+    "main.23d1cb81110442978540.js": {
+      "name": "main.23d1cb81110442978540.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.23d1cb81110442978540.js",
+      "publicPath": "/static/main.23d1cb81110442978540.js"
+    },
+    "main.23d1cb81110442978540.js.LICENSE.txt": {
+      "name": "main.23d1cb81110442978540.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.23d1cb81110442978540.js.LICENSE.txt",
+      "publicPath": "/static/main.23d1cb81110442978540.js.LICENSE.txt"
+    },
+    "main.2509e9e04178d2195c49.js": {
+      "name": "main.2509e9e04178d2195c49.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.2509e9e04178d2195c49.js",
+      "publicPath": "/static/main.2509e9e04178d2195c49.js"
+    },
+    "main.2509e9e04178d2195c49.js.LICENSE.txt": {
+      "name": "main.2509e9e04178d2195c49.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.2509e9e04178d2195c49.js.LICENSE.txt",
+      "publicPath": "/static/main.2509e9e04178d2195c49.js.LICENSE.txt"
+    },
+    "main.2609f8b177cf9180efd5.js": {
+      "name": "main.2609f8b177cf9180efd5.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.2609f8b177cf9180efd5.js",
+      "publicPath": "/static/main.2609f8b177cf9180efd5.js"
+    },
+    "main.2609f8b177cf9180efd5.js.LICENSE.txt": {
+      "name": "main.2609f8b177cf9180efd5.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.2609f8b177cf9180efd5.js.LICENSE.txt",
+      "publicPath": "/static/main.2609f8b177cf9180efd5.js.LICENSE.txt"
+    },
+    "main.2920d5588f74aa087b92.js": {
+      "name": "main.2920d5588f74aa087b92.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.2920d5588f74aa087b92.js",
+      "publicPath": "/static/main.2920d5588f74aa087b92.js"
+    },
+    "main.2920d5588f74aa087b92.js.LICENSE.txt": {
+      "name": "main.2920d5588f74aa087b92.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.2920d5588f74aa087b92.js.LICENSE.txt",
+      "publicPath": "/static/main.2920d5588f74aa087b92.js.LICENSE.txt"
+    },
+    "main.2bab6c569639b118a338.js": {
+      "name": "main.2bab6c569639b118a338.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.2bab6c569639b118a338.js",
+      "publicPath": "/static/main.2bab6c569639b118a338.js"
+    },
+    "main.2bab6c569639b118a338.js.LICENSE.txt": {
+      "name": "main.2bab6c569639b118a338.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.2bab6c569639b118a338.js.LICENSE.txt",
+      "publicPath": "/static/main.2bab6c569639b118a338.js.LICENSE.txt"
+    },
+    "main.2cd33901afd3b99cf85a.js": {
+      "name": "main.2cd33901afd3b99cf85a.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.2cd33901afd3b99cf85a.js",
+      "publicPath": "/static/main.2cd33901afd3b99cf85a.js"
+    },
+    "main.2cd33901afd3b99cf85a.js.LICENSE.txt": {
+      "name": "main.2cd33901afd3b99cf85a.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.2cd33901afd3b99cf85a.js.LICENSE.txt",
+      "publicPath": "/static/main.2cd33901afd3b99cf85a.js.LICENSE.txt"
+    },
+    "main.2e7edc667c606ac6556f.js": {
+      "name": "main.2e7edc667c606ac6556f.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.2e7edc667c606ac6556f.js",
+      "publicPath": "/static/main.2e7edc667c606ac6556f.js"
+    },
+    "main.2e7edc667c606ac6556f.js.LICENSE.txt": {
+      "name": "main.2e7edc667c606ac6556f.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.2e7edc667c606ac6556f.js.LICENSE.txt",
+      "publicPath": "/static/main.2e7edc667c606ac6556f.js.LICENSE.txt"
+    },
+    "main.2f3a9c93c0577b56d623.js": {
+      "name": "main.2f3a9c93c0577b56d623.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.2f3a9c93c0577b56d623.js",
+      "publicPath": "/static/main.2f3a9c93c0577b56d623.js"
+    },
+    "main.2f3a9c93c0577b56d623.js.LICENSE.txt": {
+      "name": "main.2f3a9c93c0577b56d623.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.2f3a9c93c0577b56d623.js.LICENSE.txt",
+      "publicPath": "/static/main.2f3a9c93c0577b56d623.js.LICENSE.txt"
+    },
+    "main.2fd284f8263ffde56ad1.js": {
+      "name": "main.2fd284f8263ffde56ad1.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.2fd284f8263ffde56ad1.js",
+      "publicPath": "/static/main.2fd284f8263ffde56ad1.js"
+    },
+    "main.2fd284f8263ffde56ad1.js.LICENSE.txt": {
+      "name": "main.2fd284f8263ffde56ad1.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.2fd284f8263ffde56ad1.js.LICENSE.txt",
+      "publicPath": "/static/main.2fd284f8263ffde56ad1.js.LICENSE.txt"
+    },
+    "main.30a4b479e9c2a0c63704.js": {
+      "name": "main.30a4b479e9c2a0c63704.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.30a4b479e9c2a0c63704.js",
+      "publicPath": "/static/main.30a4b479e9c2a0c63704.js"
+    },
+    "main.30a4b479e9c2a0c63704.js.LICENSE.txt": {
+      "name": "main.30a4b479e9c2a0c63704.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.30a4b479e9c2a0c63704.js.LICENSE.txt",
+      "publicPath": "/static/main.30a4b479e9c2a0c63704.js.LICENSE.txt"
+    },
+    "main.30ac18c100a2dfe380fb.js": {
+      "name": "main.30ac18c100a2dfe380fb.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.30ac18c100a2dfe380fb.js",
+      "publicPath": "/static/main.30ac18c100a2dfe380fb.js"
+    },
+    "main.30ac18c100a2dfe380fb.js.LICENSE.txt": {
+      "name": "main.30ac18c100a2dfe380fb.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.30ac18c100a2dfe380fb.js.LICENSE.txt",
+      "publicPath": "/static/main.30ac18c100a2dfe380fb.js.LICENSE.txt"
+    },
+    "main.324844ffbacac62a59fa.js": {
+      "name": "main.324844ffbacac62a59fa.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.324844ffbacac62a59fa.js",
+      "publicPath": "/static/main.324844ffbacac62a59fa.js"
+    },
+    "main.324844ffbacac62a59fa.js.LICENSE.txt": {
+      "name": "main.324844ffbacac62a59fa.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.324844ffbacac62a59fa.js.LICENSE.txt",
+      "publicPath": "/static/main.324844ffbacac62a59fa.js.LICENSE.txt"
+    },
+    "main.328964c9e5a1d2b29770.js": {
+      "name": "main.328964c9e5a1d2b29770.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.328964c9e5a1d2b29770.js",
+      "publicPath": "/static/main.328964c9e5a1d2b29770.js"
+    },
+    "main.328964c9e5a1d2b29770.js.LICENSE.txt": {
+      "name": "main.328964c9e5a1d2b29770.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.328964c9e5a1d2b29770.js.LICENSE.txt",
+      "publicPath": "/static/main.328964c9e5a1d2b29770.js.LICENSE.txt"
+    },
+    "main.32ec9441d915868bebbe.js": {
+      "name": "main.32ec9441d915868bebbe.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.32ec9441d915868bebbe.js",
+      "publicPath": "/static/main.32ec9441d915868bebbe.js"
+    },
+    "main.32ec9441d915868bebbe.js.LICENSE.txt": {
+      "name": "main.32ec9441d915868bebbe.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.32ec9441d915868bebbe.js.LICENSE.txt",
+      "publicPath": "/static/main.32ec9441d915868bebbe.js.LICENSE.txt"
+    },
+    "main.33496b3cf2836a4d7610.js": {
+      "name": "main.33496b3cf2836a4d7610.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.33496b3cf2836a4d7610.js",
+      "publicPath": "/static/main.33496b3cf2836a4d7610.js"
+    },
+    "main.33496b3cf2836a4d7610.js.LICENSE.txt": {
+      "name": "main.33496b3cf2836a4d7610.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.33496b3cf2836a4d7610.js.LICENSE.txt",
+      "publicPath": "/static/main.33496b3cf2836a4d7610.js.LICENSE.txt"
+    },
+    "main.34fdcabfc95287e0820b.js": {
+      "name": "main.34fdcabfc95287e0820b.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.34fdcabfc95287e0820b.js",
+      "publicPath": "/static/main.34fdcabfc95287e0820b.js"
+    },
+    "main.34fdcabfc95287e0820b.js.LICENSE.txt": {
+      "name": "main.34fdcabfc95287e0820b.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.34fdcabfc95287e0820b.js.LICENSE.txt",
+      "publicPath": "/static/main.34fdcabfc95287e0820b.js.LICENSE.txt"
+    },
+    "main.357a1eef83433eb5ee44.js": {
+      "name": "main.357a1eef83433eb5ee44.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.357a1eef83433eb5ee44.js",
+      "publicPath": "/static/main.357a1eef83433eb5ee44.js"
+    },
+    "main.357a1eef83433eb5ee44.js.LICENSE.txt": {
+      "name": "main.357a1eef83433eb5ee44.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.357a1eef83433eb5ee44.js.LICENSE.txt",
+      "publicPath": "/static/main.357a1eef83433eb5ee44.js.LICENSE.txt"
+    },
+    "main.35c6cd1f9d9a6b9dd014.js": {
+      "name": "main.35c6cd1f9d9a6b9dd014.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.35c6cd1f9d9a6b9dd014.js",
+      "publicPath": "/static/main.35c6cd1f9d9a6b9dd014.js"
+    },
+    "main.35c6cd1f9d9a6b9dd014.js.LICENSE.txt": {
+      "name": "main.35c6cd1f9d9a6b9dd014.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.35c6cd1f9d9a6b9dd014.js.LICENSE.txt",
+      "publicPath": "/static/main.35c6cd1f9d9a6b9dd014.js.LICENSE.txt"
+    },
+    "main.35cb31044e11a07f8fe8.js": {
+      "name": "main.35cb31044e11a07f8fe8.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.35cb31044e11a07f8fe8.js",
+      "publicPath": "/static/main.35cb31044e11a07f8fe8.js"
+    },
+    "main.35cb31044e11a07f8fe8.js.LICENSE.txt": {
+      "name": "main.35cb31044e11a07f8fe8.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.35cb31044e11a07f8fe8.js.LICENSE.txt",
+      "publicPath": "/static/main.35cb31044e11a07f8fe8.js.LICENSE.txt"
+    },
+    "main.376ddf324d30abd2166c.js": {
+      "name": "main.376ddf324d30abd2166c.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.376ddf324d30abd2166c.js",
+      "publicPath": "/static/main.376ddf324d30abd2166c.js"
+    },
+    "main.376ddf324d30abd2166c.js.LICENSE.txt": {
+      "name": "main.376ddf324d30abd2166c.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.376ddf324d30abd2166c.js.LICENSE.txt",
+      "publicPath": "/static/main.376ddf324d30abd2166c.js.LICENSE.txt"
+    },
+    "main.38083448244d1d57f1bd.js": {
+      "name": "main.38083448244d1d57f1bd.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.38083448244d1d57f1bd.js",
+      "publicPath": "/static/main.38083448244d1d57f1bd.js"
+    },
+    "main.38083448244d1d57f1bd.js.LICENSE.txt": {
+      "name": "main.38083448244d1d57f1bd.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.38083448244d1d57f1bd.js.LICENSE.txt",
+      "publicPath": "/static/main.38083448244d1d57f1bd.js.LICENSE.txt"
+    },
+    "main.3aa31b75fcb0a8d4e467.js": {
+      "name": "main.3aa31b75fcb0a8d4e467.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.3aa31b75fcb0a8d4e467.js",
+      "publicPath": "/static/main.3aa31b75fcb0a8d4e467.js"
+    },
+    "main.3aa31b75fcb0a8d4e467.js.LICENSE.txt": {
+      "name": "main.3aa31b75fcb0a8d4e467.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.3aa31b75fcb0a8d4e467.js.LICENSE.txt",
+      "publicPath": "/static/main.3aa31b75fcb0a8d4e467.js.LICENSE.txt"
+    },
+    "main.3ba71f58aaf714ac1d97.js": {
+      "name": "main.3ba71f58aaf714ac1d97.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.3ba71f58aaf714ac1d97.js",
+      "publicPath": "/static/main.3ba71f58aaf714ac1d97.js"
+    },
+    "main.3ba71f58aaf714ac1d97.js.LICENSE.txt": {
+      "name": "main.3ba71f58aaf714ac1d97.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.3ba71f58aaf714ac1d97.js.LICENSE.txt",
+      "publicPath": "/static/main.3ba71f58aaf714ac1d97.js.LICENSE.txt"
+    },
+    "main.3c63fb55e5d3f3074d03.js": {
+      "name": "main.3c63fb55e5d3f3074d03.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.3c63fb55e5d3f3074d03.js",
+      "publicPath": "/static/main.3c63fb55e5d3f3074d03.js"
+    },
+    "main.3c63fb55e5d3f3074d03.js.LICENSE.txt": {
+      "name": "main.3c63fb55e5d3f3074d03.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.3c63fb55e5d3f3074d03.js.LICENSE.txt",
+      "publicPath": "/static/main.3c63fb55e5d3f3074d03.js.LICENSE.txt"
+    },
+    "main.402fd8ad9d1e939db487.js": {
+      "name": "main.402fd8ad9d1e939db487.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.402fd8ad9d1e939db487.js",
+      "publicPath": "/static/main.402fd8ad9d1e939db487.js"
+    },
+    "main.402fd8ad9d1e939db487.js.LICENSE.txt": {
+      "name": "main.402fd8ad9d1e939db487.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.402fd8ad9d1e939db487.js.LICENSE.txt",
+      "publicPath": "/static/main.402fd8ad9d1e939db487.js.LICENSE.txt"
+    },
+    "main.404218877da283bd4fbb.js": {
+      "name": "main.404218877da283bd4fbb.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.404218877da283bd4fbb.js",
+      "publicPath": "/static/main.404218877da283bd4fbb.js"
+    },
+    "main.404218877da283bd4fbb.js.LICENSE.txt": {
+      "name": "main.404218877da283bd4fbb.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.404218877da283bd4fbb.js.LICENSE.txt",
+      "publicPath": "/static/main.404218877da283bd4fbb.js.LICENSE.txt"
+    },
+    "main.4177b47a33e5f830929e.js": {
+      "name": "main.4177b47a33e5f830929e.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.4177b47a33e5f830929e.js",
+      "publicPath": "/static/main.4177b47a33e5f830929e.js"
+    },
+    "main.4177b47a33e5f830929e.js.LICENSE.txt": {
+      "name": "main.4177b47a33e5f830929e.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.4177b47a33e5f830929e.js.LICENSE.txt",
+      "publicPath": "/static/main.4177b47a33e5f830929e.js.LICENSE.txt"
+    },
+    "main.41b9105cee59bf36daa1.js": {
+      "name": "main.41b9105cee59bf36daa1.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.41b9105cee59bf36daa1.js",
+      "publicPath": "/static/main.41b9105cee59bf36daa1.js"
+    },
+    "main.41b9105cee59bf36daa1.js.LICENSE.txt": {
+      "name": "main.41b9105cee59bf36daa1.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.41b9105cee59bf36daa1.js.LICENSE.txt",
+      "publicPath": "/static/main.41b9105cee59bf36daa1.js.LICENSE.txt"
+    },
+    "main.41c78ce5bea8bbb7f8e4.js": {
+      "name": "main.41c78ce5bea8bbb7f8e4.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.41c78ce5bea8bbb7f8e4.js",
+      "publicPath": "/static/main.41c78ce5bea8bbb7f8e4.js"
+    },
+    "main.41c78ce5bea8bbb7f8e4.js.LICENSE.txt": {
+      "name": "main.41c78ce5bea8bbb7f8e4.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.41c78ce5bea8bbb7f8e4.js.LICENSE.txt",
+      "publicPath": "/static/main.41c78ce5bea8bbb7f8e4.js.LICENSE.txt"
+    },
+    "main.42f422cd5da95f43bd90.js": {
+      "name": "main.42f422cd5da95f43bd90.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.42f422cd5da95f43bd90.js",
+      "publicPath": "/static/main.42f422cd5da95f43bd90.js"
+    },
+    "main.42f422cd5da95f43bd90.js.LICENSE.txt": {
+      "name": "main.42f422cd5da95f43bd90.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.42f422cd5da95f43bd90.js.LICENSE.txt",
+      "publicPath": "/static/main.42f422cd5da95f43bd90.js.LICENSE.txt"
+    },
+    "main.4321ca4ce3406d287993.js": {
+      "name": "main.4321ca4ce3406d287993.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.4321ca4ce3406d287993.js",
+      "publicPath": "/static/main.4321ca4ce3406d287993.js"
+    },
+    "main.4321ca4ce3406d287993.js.LICENSE.txt": {
+      "name": "main.4321ca4ce3406d287993.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.4321ca4ce3406d287993.js.LICENSE.txt",
+      "publicPath": "/static/main.4321ca4ce3406d287993.js.LICENSE.txt"
+    },
+    "main.4685deece7d6ea36c83c.js": {
+      "name": "main.4685deece7d6ea36c83c.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.4685deece7d6ea36c83c.js",
+      "publicPath": "/static/main.4685deece7d6ea36c83c.js"
+    },
+    "main.4685deece7d6ea36c83c.js.LICENSE.txt": {
+      "name": "main.4685deece7d6ea36c83c.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.4685deece7d6ea36c83c.js.LICENSE.txt",
+      "publicPath": "/static/main.4685deece7d6ea36c83c.js.LICENSE.txt"
+    },
+    "main.472bf7586e635272b290.js": {
+      "name": "main.472bf7586e635272b290.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.472bf7586e635272b290.js",
+      "publicPath": "/static/main.472bf7586e635272b290.js"
+    },
+    "main.472bf7586e635272b290.js.LICENSE.txt": {
+      "name": "main.472bf7586e635272b290.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.472bf7586e635272b290.js.LICENSE.txt",
+      "publicPath": "/static/main.472bf7586e635272b290.js.LICENSE.txt"
+    },
+    "main.48653b5efd3f0f29e8d8.js": {
+      "name": "main.48653b5efd3f0f29e8d8.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.48653b5efd3f0f29e8d8.js",
+      "publicPath": "/static/main.48653b5efd3f0f29e8d8.js"
+    },
+    "main.48653b5efd3f0f29e8d8.js.LICENSE.txt": {
+      "name": "main.48653b5efd3f0f29e8d8.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.48653b5efd3f0f29e8d8.js.LICENSE.txt",
+      "publicPath": "/static/main.48653b5efd3f0f29e8d8.js.LICENSE.txt"
+    },
+    "main.4a151426f1bbeda1b4ad.js": {
+      "name": "main.4a151426f1bbeda1b4ad.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.4a151426f1bbeda1b4ad.js",
+      "publicPath": "/static/main.4a151426f1bbeda1b4ad.js"
+    },
+    "main.4a151426f1bbeda1b4ad.js.LICENSE.txt": {
+      "name": "main.4a151426f1bbeda1b4ad.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.4a151426f1bbeda1b4ad.js.LICENSE.txt",
+      "publicPath": "/static/main.4a151426f1bbeda1b4ad.js.LICENSE.txt"
+    },
+    "main.4bfc2589af8193952782.js": {
+      "name": "main.4bfc2589af8193952782.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.4bfc2589af8193952782.js",
+      "publicPath": "/static/main.4bfc2589af8193952782.js"
+    },
+    "main.4bfc2589af8193952782.js.LICENSE.txt": {
+      "name": "main.4bfc2589af8193952782.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.4bfc2589af8193952782.js.LICENSE.txt",
+      "publicPath": "/static/main.4bfc2589af8193952782.js.LICENSE.txt"
+    },
+    "main.4c77d25e6c2a10934a3d.js": {
+      "name": "main.4c77d25e6c2a10934a3d.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.4c77d25e6c2a10934a3d.js",
+      "publicPath": "/static/main.4c77d25e6c2a10934a3d.js"
+    },
+    "main.4c77d25e6c2a10934a3d.js.LICENSE.txt": {
+      "name": "main.4c77d25e6c2a10934a3d.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.4c77d25e6c2a10934a3d.js.LICENSE.txt",
+      "publicPath": "/static/main.4c77d25e6c2a10934a3d.js.LICENSE.txt"
+    },
+    "main.4de77673e2851b8703c3.js": {
+      "name": "main.4de77673e2851b8703c3.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.4de77673e2851b8703c3.js",
+      "publicPath": "/static/main.4de77673e2851b8703c3.js"
+    },
+    "main.4de77673e2851b8703c3.js.LICENSE.txt": {
+      "name": "main.4de77673e2851b8703c3.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.4de77673e2851b8703c3.js.LICENSE.txt",
+      "publicPath": "/static/main.4de77673e2851b8703c3.js.LICENSE.txt"
+    },
+    "main.4e021ca5f740e63de277.js": {
+      "name": "main.4e021ca5f740e63de277.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.4e021ca5f740e63de277.js",
+      "publicPath": "/static/main.4e021ca5f740e63de277.js"
+    },
+    "main.4e021ca5f740e63de277.js.LICENSE.txt": {
+      "name": "main.4e021ca5f740e63de277.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.4e021ca5f740e63de277.js.LICENSE.txt",
+      "publicPath": "/static/main.4e021ca5f740e63de277.js.LICENSE.txt"
+    },
+    "main.4f2fbd54e4486290de4f.js": {
+      "name": "main.4f2fbd54e4486290de4f.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.4f2fbd54e4486290de4f.js",
+      "publicPath": "/static/main.4f2fbd54e4486290de4f.js"
+    },
+    "main.4f2fbd54e4486290de4f.js.LICENSE.txt": {
+      "name": "main.4f2fbd54e4486290de4f.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.4f2fbd54e4486290de4f.js.LICENSE.txt",
+      "publicPath": "/static/main.4f2fbd54e4486290de4f.js.LICENSE.txt"
+    },
+    "main.54c3be7ecce48b06049f.js": {
+      "name": "main.54c3be7ecce48b06049f.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.54c3be7ecce48b06049f.js",
+      "publicPath": "/static/main.54c3be7ecce48b06049f.js"
+    },
+    "main.54c3be7ecce48b06049f.js.LICENSE.txt": {
+      "name": "main.54c3be7ecce48b06049f.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.54c3be7ecce48b06049f.js.LICENSE.txt",
+      "publicPath": "/static/main.54c3be7ecce48b06049f.js.LICENSE.txt"
+    },
+    "main.566666f6b34d0d6b9d32.js": {
+      "name": "main.566666f6b34d0d6b9d32.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.566666f6b34d0d6b9d32.js",
+      "publicPath": "/static/main.566666f6b34d0d6b9d32.js"
+    },
+    "main.566666f6b34d0d6b9d32.js.LICENSE.txt": {
+      "name": "main.566666f6b34d0d6b9d32.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.566666f6b34d0d6b9d32.js.LICENSE.txt",
+      "publicPath": "/static/main.566666f6b34d0d6b9d32.js.LICENSE.txt"
+    },
+    "main.56b7ec58b02de7ebd93c.js": {
+      "name": "main.56b7ec58b02de7ebd93c.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.56b7ec58b02de7ebd93c.js",
+      "publicPath": "/static/main.56b7ec58b02de7ebd93c.js"
+    },
+    "main.56b7ec58b02de7ebd93c.js.LICENSE.txt": {
+      "name": "main.56b7ec58b02de7ebd93c.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.56b7ec58b02de7ebd93c.js.LICENSE.txt",
+      "publicPath": "/static/main.56b7ec58b02de7ebd93c.js.LICENSE.txt"
+    },
+    "main.56b9dafa7dee0955f0ad.js": {
+      "name": "main.56b9dafa7dee0955f0ad.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.56b9dafa7dee0955f0ad.js",
+      "publicPath": "/static/main.56b9dafa7dee0955f0ad.js"
+    },
+    "main.56b9dafa7dee0955f0ad.js.LICENSE.txt": {
+      "name": "main.56b9dafa7dee0955f0ad.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.56b9dafa7dee0955f0ad.js.LICENSE.txt",
+      "publicPath": "/static/main.56b9dafa7dee0955f0ad.js.LICENSE.txt"
+    },
+    "main.56ee8732441f23ac0bf8.js": {
+      "name": "main.56ee8732441f23ac0bf8.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.56ee8732441f23ac0bf8.js",
+      "publicPath": "/static/main.56ee8732441f23ac0bf8.js"
+    },
+    "main.56ee8732441f23ac0bf8.js.LICENSE.txt": {
+      "name": "main.56ee8732441f23ac0bf8.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.56ee8732441f23ac0bf8.js.LICENSE.txt",
+      "publicPath": "/static/main.56ee8732441f23ac0bf8.js.LICENSE.txt"
+    },
+    "main.572e78576d7230ecdca2.js": {
+      "name": "main.572e78576d7230ecdca2.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.572e78576d7230ecdca2.js",
+      "publicPath": "/static/main.572e78576d7230ecdca2.js"
+    },
+    "main.572e78576d7230ecdca2.js.LICENSE.txt": {
+      "name": "main.572e78576d7230ecdca2.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.572e78576d7230ecdca2.js.LICENSE.txt",
+      "publicPath": "/static/main.572e78576d7230ecdca2.js.LICENSE.txt"
+    },
+    "main.57d38bca0ce3bb8d38d9.js": {
+      "name": "main.57d38bca0ce3bb8d38d9.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.57d38bca0ce3bb8d38d9.js",
+      "publicPath": "/static/main.57d38bca0ce3bb8d38d9.js"
+    },
+    "main.57d38bca0ce3bb8d38d9.js.LICENSE.txt": {
+      "name": "main.57d38bca0ce3bb8d38d9.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.57d38bca0ce3bb8d38d9.js.LICENSE.txt",
+      "publicPath": "/static/main.57d38bca0ce3bb8d38d9.js.LICENSE.txt"
+    },
+    "main.595db5ce56b31df6129e.js": {
+      "name": "main.595db5ce56b31df6129e.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.595db5ce56b31df6129e.js",
+      "publicPath": "/static/main.595db5ce56b31df6129e.js"
+    },
+    "main.595db5ce56b31df6129e.js.LICENSE.txt": {
+      "name": "main.595db5ce56b31df6129e.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.595db5ce56b31df6129e.js.LICENSE.txt",
+      "publicPath": "/static/main.595db5ce56b31df6129e.js.LICENSE.txt"
+    },
+    "main.5a4484814f244c17a9c4.js": {
+      "name": "main.5a4484814f244c17a9c4.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.5a4484814f244c17a9c4.js",
+      "publicPath": "/static/main.5a4484814f244c17a9c4.js"
+    },
+    "main.5a4484814f244c17a9c4.js.LICENSE.txt": {
+      "name": "main.5a4484814f244c17a9c4.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.5a4484814f244c17a9c4.js.LICENSE.txt",
+      "publicPath": "/static/main.5a4484814f244c17a9c4.js.LICENSE.txt"
+    },
+    "main.5a7f3aa5f557983f3b1a.js": {
+      "name": "main.5a7f3aa5f557983f3b1a.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.5a7f3aa5f557983f3b1a.js",
+      "publicPath": "/static/main.5a7f3aa5f557983f3b1a.js"
+    },
+    "main.5a7f3aa5f557983f3b1a.js.LICENSE.txt": {
+      "name": "main.5a7f3aa5f557983f3b1a.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.5a7f3aa5f557983f3b1a.js.LICENSE.txt",
+      "publicPath": "/static/main.5a7f3aa5f557983f3b1a.js.LICENSE.txt"
+    },
+    "main.5a83b9e354f5544ba4a1.js": {
+      "name": "main.5a83b9e354f5544ba4a1.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.5a83b9e354f5544ba4a1.js",
+      "publicPath": "/static/main.5a83b9e354f5544ba4a1.js"
+    },
+    "main.5a83b9e354f5544ba4a1.js.LICENSE.txt": {
+      "name": "main.5a83b9e354f5544ba4a1.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.5a83b9e354f5544ba4a1.js.LICENSE.txt",
+      "publicPath": "/static/main.5a83b9e354f5544ba4a1.js.LICENSE.txt"
+    },
+    "main.5adfb904b962619b226d.js": {
+      "name": "main.5adfb904b962619b226d.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.5adfb904b962619b226d.js",
+      "publicPath": "/static/main.5adfb904b962619b226d.js"
+    },
+    "main.5adfb904b962619b226d.js.LICENSE.txt": {
+      "name": "main.5adfb904b962619b226d.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.5adfb904b962619b226d.js.LICENSE.txt",
+      "publicPath": "/static/main.5adfb904b962619b226d.js.LICENSE.txt"
+    },
+    "main.5af65fef9c71004d1d50.js": {
+      "name": "main.5af65fef9c71004d1d50.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.5af65fef9c71004d1d50.js",
+      "publicPath": "/static/main.5af65fef9c71004d1d50.js"
+    },
+    "main.5af65fef9c71004d1d50.js.LICENSE.txt": {
+      "name": "main.5af65fef9c71004d1d50.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.5af65fef9c71004d1d50.js.LICENSE.txt",
+      "publicPath": "/static/main.5af65fef9c71004d1d50.js.LICENSE.txt"
+    },
+    "main.5b88cf72f53e438c829f.js": {
+      "name": "main.5b88cf72f53e438c829f.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.5b88cf72f53e438c829f.js",
+      "publicPath": "/static/main.5b88cf72f53e438c829f.js"
+    },
+    "main.5b88cf72f53e438c829f.js.LICENSE.txt": {
+      "name": "main.5b88cf72f53e438c829f.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.5b88cf72f53e438c829f.js.LICENSE.txt",
+      "publicPath": "/static/main.5b88cf72f53e438c829f.js.LICENSE.txt"
+    },
+    "main.5cdf803a440578f30bce.js": {
+      "name": "main.5cdf803a440578f30bce.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.5cdf803a440578f30bce.js",
+      "publicPath": "/static/main.5cdf803a440578f30bce.js"
+    },
+    "main.5cdf803a440578f30bce.js.LICENSE.txt": {
+      "name": "main.5cdf803a440578f30bce.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.5cdf803a440578f30bce.js.LICENSE.txt",
+      "publicPath": "/static/main.5cdf803a440578f30bce.js.LICENSE.txt"
+    },
+    "main.5d20849f3c87466a27b2.js": {
+      "name": "main.5d20849f3c87466a27b2.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.5d20849f3c87466a27b2.js",
+      "publicPath": "/static/main.5d20849f3c87466a27b2.js"
+    },
+    "main.5d20849f3c87466a27b2.js.LICENSE.txt": {
+      "name": "main.5d20849f3c87466a27b2.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.5d20849f3c87466a27b2.js.LICENSE.txt",
+      "publicPath": "/static/main.5d20849f3c87466a27b2.js.LICENSE.txt"
+    },
+    "main.5e1124979b012b6f7987.js": {
+      "name": "main.5e1124979b012b6f7987.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.5e1124979b012b6f7987.js",
+      "publicPath": "/static/main.5e1124979b012b6f7987.js"
+    },
+    "main.5e1124979b012b6f7987.js.LICENSE.txt": {
+      "name": "main.5e1124979b012b6f7987.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.5e1124979b012b6f7987.js.LICENSE.txt",
+      "publicPath": "/static/main.5e1124979b012b6f7987.js.LICENSE.txt"
+    },
+    "main.5fb676995159c0172b39.js": {
+      "name": "main.5fb676995159c0172b39.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.5fb676995159c0172b39.js",
+      "publicPath": "/static/main.5fb676995159c0172b39.js"
+    },
+    "main.5fb676995159c0172b39.js.LICENSE.txt": {
+      "name": "main.5fb676995159c0172b39.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.5fb676995159c0172b39.js.LICENSE.txt",
+      "publicPath": "/static/main.5fb676995159c0172b39.js.LICENSE.txt"
+    },
+    "main.6101c4bb2d53312bdedb.js": {
+      "name": "main.6101c4bb2d53312bdedb.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.6101c4bb2d53312bdedb.js",
+      "publicPath": "/static/main.6101c4bb2d53312bdedb.js"
+    },
+    "main.6101c4bb2d53312bdedb.js.LICENSE.txt": {
+      "name": "main.6101c4bb2d53312bdedb.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.6101c4bb2d53312bdedb.js.LICENSE.txt",
+      "publicPath": "/static/main.6101c4bb2d53312bdedb.js.LICENSE.txt"
+    },
+    "main.63a213ab4cb3597ff0da.js": {
+      "name": "main.63a213ab4cb3597ff0da.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.63a213ab4cb3597ff0da.js",
+      "publicPath": "/static/main.63a213ab4cb3597ff0da.js"
+    },
+    "main.63a213ab4cb3597ff0da.js.LICENSE.txt": {
+      "name": "main.63a213ab4cb3597ff0da.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.63a213ab4cb3597ff0da.js.LICENSE.txt",
+      "publicPath": "/static/main.63a213ab4cb3597ff0da.js.LICENSE.txt"
+    },
+    "main.63e5e235c70992e99347.js": {
+      "name": "main.63e5e235c70992e99347.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.63e5e235c70992e99347.js",
+      "publicPath": "/static/main.63e5e235c70992e99347.js"
+    },
+    "main.63e5e235c70992e99347.js.LICENSE.txt": {
+      "name": "main.63e5e235c70992e99347.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.63e5e235c70992e99347.js.LICENSE.txt",
+      "publicPath": "/static/main.63e5e235c70992e99347.js.LICENSE.txt"
+    },
+    "main.640cb54a7c8d65d60966.js": {
+      "name": "main.640cb54a7c8d65d60966.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.640cb54a7c8d65d60966.js",
+      "publicPath": "/static/main.640cb54a7c8d65d60966.js"
+    },
+    "main.640cb54a7c8d65d60966.js.LICENSE.txt": {
+      "name": "main.640cb54a7c8d65d60966.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.640cb54a7c8d65d60966.js.LICENSE.txt",
+      "publicPath": "/static/main.640cb54a7c8d65d60966.js.LICENSE.txt"
+    },
+    "main.666e8ac0ea0a11dfc7bb.js": {
+      "name": "main.666e8ac0ea0a11dfc7bb.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.666e8ac0ea0a11dfc7bb.js",
+      "publicPath": "/static/main.666e8ac0ea0a11dfc7bb.js"
+    },
+    "main.666e8ac0ea0a11dfc7bb.js.LICENSE.txt": {
+      "name": "main.666e8ac0ea0a11dfc7bb.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.666e8ac0ea0a11dfc7bb.js.LICENSE.txt",
+      "publicPath": "/static/main.666e8ac0ea0a11dfc7bb.js.LICENSE.txt"
+    },
+    "main.6738e08e928eae1553c2.js": {
+      "name": "main.6738e08e928eae1553c2.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.6738e08e928eae1553c2.js",
+      "publicPath": "/static/main.6738e08e928eae1553c2.js"
+    },
+    "main.6738e08e928eae1553c2.js.LICENSE.txt": {
+      "name": "main.6738e08e928eae1553c2.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.6738e08e928eae1553c2.js.LICENSE.txt",
+      "publicPath": "/static/main.6738e08e928eae1553c2.js.LICENSE.txt"
+    },
+    "main.6b9ab0d8c834be4ffdee.js": {
+      "name": "main.6b9ab0d8c834be4ffdee.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.6b9ab0d8c834be4ffdee.js",
+      "publicPath": "/static/main.6b9ab0d8c834be4ffdee.js"
+    },
+    "main.6b9ab0d8c834be4ffdee.js.LICENSE.txt": {
+      "name": "main.6b9ab0d8c834be4ffdee.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.6b9ab0d8c834be4ffdee.js.LICENSE.txt",
+      "publicPath": "/static/main.6b9ab0d8c834be4ffdee.js.LICENSE.txt"
+    },
+    "main.6ed885c273f99fce2849.js": {
+      "name": "main.6ed885c273f99fce2849.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.6ed885c273f99fce2849.js",
+      "publicPath": "/static/main.6ed885c273f99fce2849.js"
+    },
+    "main.6ed885c273f99fce2849.js.LICENSE.txt": {
+      "name": "main.6ed885c273f99fce2849.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.6ed885c273f99fce2849.js.LICENSE.txt",
+      "publicPath": "/static/main.6ed885c273f99fce2849.js.LICENSE.txt"
+    },
+    "main.72911a3a6f6a10adb38e.js": {
+      "name": "main.72911a3a6f6a10adb38e.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.72911a3a6f6a10adb38e.js",
+      "publicPath": "/static/main.72911a3a6f6a10adb38e.js"
+    },
+    "main.72911a3a6f6a10adb38e.js.LICENSE.txt": {
+      "name": "main.72911a3a6f6a10adb38e.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.72911a3a6f6a10adb38e.js.LICENSE.txt",
+      "publicPath": "/static/main.72911a3a6f6a10adb38e.js.LICENSE.txt"
+    },
+    "main.747012a578a29969718d.js": {
+      "name": "main.747012a578a29969718d.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.747012a578a29969718d.js",
+      "publicPath": "/static/main.747012a578a29969718d.js"
+    },
+    "main.747012a578a29969718d.js.LICENSE.txt": {
+      "name": "main.747012a578a29969718d.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.747012a578a29969718d.js.LICENSE.txt",
+      "publicPath": "/static/main.747012a578a29969718d.js.LICENSE.txt"
+    },
+    "main.763ffcd601a7a1c612c7.js": {
+      "name": "main.763ffcd601a7a1c612c7.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.763ffcd601a7a1c612c7.js",
+      "publicPath": "/static/main.763ffcd601a7a1c612c7.js"
+    },
+    "main.763ffcd601a7a1c612c7.js.LICENSE.txt": {
+      "name": "main.763ffcd601a7a1c612c7.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.763ffcd601a7a1c612c7.js.LICENSE.txt",
+      "publicPath": "/static/main.763ffcd601a7a1c612c7.js.LICENSE.txt"
+    },
+    "main.76aa09432c45ec98701f.js": {
+      "name": "main.76aa09432c45ec98701f.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.76aa09432c45ec98701f.js",
+      "publicPath": "/static/main.76aa09432c45ec98701f.js"
+    },
+    "main.76aa09432c45ec98701f.js.LICENSE.txt": {
+      "name": "main.76aa09432c45ec98701f.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.76aa09432c45ec98701f.js.LICENSE.txt",
+      "publicPath": "/static/main.76aa09432c45ec98701f.js.LICENSE.txt"
+    },
+    "main.7786235f8907193d8b5c.js": {
+      "name": "main.7786235f8907193d8b5c.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.7786235f8907193d8b5c.js",
+      "publicPath": "/static/main.7786235f8907193d8b5c.js"
+    },
+    "main.7786235f8907193d8b5c.js.LICENSE.txt": {
+      "name": "main.7786235f8907193d8b5c.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.7786235f8907193d8b5c.js.LICENSE.txt",
+      "publicPath": "/static/main.7786235f8907193d8b5c.js.LICENSE.txt"
+    },
+    "main.77a602a8f331628ea9e8.js": {
+      "name": "main.77a602a8f331628ea9e8.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.77a602a8f331628ea9e8.js",
+      "publicPath": "/static/main.77a602a8f331628ea9e8.js"
+    },
+    "main.77a602a8f331628ea9e8.js.LICENSE.txt": {
+      "name": "main.77a602a8f331628ea9e8.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.77a602a8f331628ea9e8.js.LICENSE.txt",
+      "publicPath": "/static/main.77a602a8f331628ea9e8.js.LICENSE.txt"
+    },
+    "main.799715681e5b87782de7.js": {
+      "name": "main.799715681e5b87782de7.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.799715681e5b87782de7.js",
+      "publicPath": "/static/main.799715681e5b87782de7.js"
+    },
+    "main.799715681e5b87782de7.js.LICENSE.txt": {
+      "name": "main.799715681e5b87782de7.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.799715681e5b87782de7.js.LICENSE.txt",
+      "publicPath": "/static/main.799715681e5b87782de7.js.LICENSE.txt"
+    },
+    "main.79bde0e9c824f8dc1eee.js": {
+      "name": "main.79bde0e9c824f8dc1eee.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.79bde0e9c824f8dc1eee.js",
+      "publicPath": "/static/main.79bde0e9c824f8dc1eee.js"
+    },
+    "main.79bde0e9c824f8dc1eee.js.LICENSE.txt": {
+      "name": "main.79bde0e9c824f8dc1eee.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.79bde0e9c824f8dc1eee.js.LICENSE.txt",
+      "publicPath": "/static/main.79bde0e9c824f8dc1eee.js.LICENSE.txt"
+    },
+    "main.7babed7bef45191df65b.js": {
+      "name": "main.7babed7bef45191df65b.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.7babed7bef45191df65b.js",
+      "publicPath": "/static/main.7babed7bef45191df65b.js"
+    },
+    "main.7babed7bef45191df65b.js.LICENSE.txt": {
+      "name": "main.7babed7bef45191df65b.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.7babed7bef45191df65b.js.LICENSE.txt",
+      "publicPath": "/static/main.7babed7bef45191df65b.js.LICENSE.txt"
+    },
+    "main.7d4c90cfc8c784f67d6b.js": {
+      "name": "main.7d4c90cfc8c784f67d6b.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.7d4c90cfc8c784f67d6b.js",
+      "publicPath": "/static/main.7d4c90cfc8c784f67d6b.js"
+    },
+    "main.7d4c90cfc8c784f67d6b.js.LICENSE.txt": {
+      "name": "main.7d4c90cfc8c784f67d6b.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.7d4c90cfc8c784f67d6b.js.LICENSE.txt",
+      "publicPath": "/static/main.7d4c90cfc8c784f67d6b.js.LICENSE.txt"
+    },
+    "main.7e8fe36134ea17576e08.js": {
+      "name": "main.7e8fe36134ea17576e08.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.7e8fe36134ea17576e08.js",
+      "publicPath": "/static/main.7e8fe36134ea17576e08.js"
+    },
+    "main.7e8fe36134ea17576e08.js.LICENSE.txt": {
+      "name": "main.7e8fe36134ea17576e08.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.7e8fe36134ea17576e08.js.LICENSE.txt",
+      "publicPath": "/static/main.7e8fe36134ea17576e08.js.LICENSE.txt"
+    },
+    "main.7ee82826739e2fa28d20.js": {
+      "name": "main.7ee82826739e2fa28d20.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.7ee82826739e2fa28d20.js",
+      "publicPath": "/static/main.7ee82826739e2fa28d20.js"
+    },
+    "main.7ee82826739e2fa28d20.js.LICENSE.txt": {
+      "name": "main.7ee82826739e2fa28d20.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.7ee82826739e2fa28d20.js.LICENSE.txt",
+      "publicPath": "/static/main.7ee82826739e2fa28d20.js.LICENSE.txt"
+    },
+    "main.81d86c1f8cc23e8866e9.js": {
+      "name": "main.81d86c1f8cc23e8866e9.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.81d86c1f8cc23e8866e9.js",
+      "publicPath": "/static/main.81d86c1f8cc23e8866e9.js"
+    },
+    "main.81d86c1f8cc23e8866e9.js.LICENSE.txt": {
+      "name": "main.81d86c1f8cc23e8866e9.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.81d86c1f8cc23e8866e9.js.LICENSE.txt",
+      "publicPath": "/static/main.81d86c1f8cc23e8866e9.js.LICENSE.txt"
+    },
+    "main.84dd48e755bd16e76548.js": {
+      "name": "main.84dd48e755bd16e76548.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.84dd48e755bd16e76548.js",
+      "publicPath": "/static/main.84dd48e755bd16e76548.js"
+    },
+    "main.84dd48e755bd16e76548.js.LICENSE.txt": {
+      "name": "main.84dd48e755bd16e76548.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.84dd48e755bd16e76548.js.LICENSE.txt",
+      "publicPath": "/static/main.84dd48e755bd16e76548.js.LICENSE.txt"
+    },
+    "main.85a62252680c8fcc74c3.js": {
+      "name": "main.85a62252680c8fcc74c3.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.85a62252680c8fcc74c3.js",
+      "publicPath": "/static/main.85a62252680c8fcc74c3.js"
+    },
+    "main.85a62252680c8fcc74c3.js.LICENSE.txt": {
+      "name": "main.85a62252680c8fcc74c3.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.85a62252680c8fcc74c3.js.LICENSE.txt",
+      "publicPath": "/static/main.85a62252680c8fcc74c3.js.LICENSE.txt"
+    },
+    "main.8612d0bbc52ce5d79509.js": {
+      "name": "main.8612d0bbc52ce5d79509.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.8612d0bbc52ce5d79509.js",
+      "publicPath": "/static/main.8612d0bbc52ce5d79509.js"
+    },
+    "main.8612d0bbc52ce5d79509.js.LICENSE.txt": {
+      "name": "main.8612d0bbc52ce5d79509.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.8612d0bbc52ce5d79509.js.LICENSE.txt",
+      "publicPath": "/static/main.8612d0bbc52ce5d79509.js.LICENSE.txt"
+    },
+    "main.8657a5d445c41873f7b3.js": {
+      "name": "main.8657a5d445c41873f7b3.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.8657a5d445c41873f7b3.js",
+      "publicPath": "/static/main.8657a5d445c41873f7b3.js"
+    },
+    "main.8657a5d445c41873f7b3.js.LICENSE.txt": {
+      "name": "main.8657a5d445c41873f7b3.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.8657a5d445c41873f7b3.js.LICENSE.txt",
+      "publicPath": "/static/main.8657a5d445c41873f7b3.js.LICENSE.txt"
+    },
+    "main.88740ddaccd433e4c1f7.js": {
+      "name": "main.88740ddaccd433e4c1f7.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.88740ddaccd433e4c1f7.js",
+      "publicPath": "/static/main.88740ddaccd433e4c1f7.js"
+    },
+    "main.88740ddaccd433e4c1f7.js.LICENSE.txt": {
+      "name": "main.88740ddaccd433e4c1f7.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.88740ddaccd433e4c1f7.js.LICENSE.txt",
+      "publicPath": "/static/main.88740ddaccd433e4c1f7.js.LICENSE.txt"
+    },
+    "main.887b10b9296c4d0dbddc.js": {
+      "name": "main.887b10b9296c4d0dbddc.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.887b10b9296c4d0dbddc.js",
+      "publicPath": "/static/main.887b10b9296c4d0dbddc.js"
+    },
+    "main.887b10b9296c4d0dbddc.js.LICENSE.txt": {
+      "name": "main.887b10b9296c4d0dbddc.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.887b10b9296c4d0dbddc.js.LICENSE.txt",
+      "publicPath": "/static/main.887b10b9296c4d0dbddc.js.LICENSE.txt"
+    },
+    "main.8a0dd3986623480786e6.js": {
+      "name": "main.8a0dd3986623480786e6.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.8a0dd3986623480786e6.js",
+      "publicPath": "/static/main.8a0dd3986623480786e6.js"
+    },
+    "main.8a0dd3986623480786e6.js.LICENSE.txt": {
+      "name": "main.8a0dd3986623480786e6.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.8a0dd3986623480786e6.js.LICENSE.txt",
+      "publicPath": "/static/main.8a0dd3986623480786e6.js.LICENSE.txt"
+    },
+    "main.8ad1ac43930f79cb40a7.js": {
+      "name": "main.8ad1ac43930f79cb40a7.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.8ad1ac43930f79cb40a7.js",
+      "publicPath": "/static/main.8ad1ac43930f79cb40a7.js"
+    },
+    "main.8ad1ac43930f79cb40a7.js.LICENSE.txt": {
+      "name": "main.8ad1ac43930f79cb40a7.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.8ad1ac43930f79cb40a7.js.LICENSE.txt",
+      "publicPath": "/static/main.8ad1ac43930f79cb40a7.js.LICENSE.txt"
+    },
+    "main.8f0e85e52f46b73caf9a.js": {
+      "name": "main.8f0e85e52f46b73caf9a.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.8f0e85e52f46b73caf9a.js",
+      "publicPath": "/static/main.8f0e85e52f46b73caf9a.js"
+    },
+    "main.8f0e85e52f46b73caf9a.js.LICENSE.txt": {
+      "name": "main.8f0e85e52f46b73caf9a.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.8f0e85e52f46b73caf9a.js.LICENSE.txt",
+      "publicPath": "/static/main.8f0e85e52f46b73caf9a.js.LICENSE.txt"
+    },
+    "main.8f8cd9f3f17f6ab0ff2f.js": {
+      "name": "main.8f8cd9f3f17f6ab0ff2f.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.8f8cd9f3f17f6ab0ff2f.js",
+      "publicPath": "/static/main.8f8cd9f3f17f6ab0ff2f.js"
+    },
+    "main.8f8cd9f3f17f6ab0ff2f.js.LICENSE.txt": {
+      "name": "main.8f8cd9f3f17f6ab0ff2f.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.8f8cd9f3f17f6ab0ff2f.js.LICENSE.txt",
+      "publicPath": "/static/main.8f8cd9f3f17f6ab0ff2f.js.LICENSE.txt"
+    },
+    "main.8f9798d808994556ff9b.js": {
+      "name": "main.8f9798d808994556ff9b.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.8f9798d808994556ff9b.js",
+      "publicPath": "/static/main.8f9798d808994556ff9b.js"
+    },
+    "main.8f9798d808994556ff9b.js.LICENSE.txt": {
+      "name": "main.8f9798d808994556ff9b.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.8f9798d808994556ff9b.js.LICENSE.txt",
+      "publicPath": "/static/main.8f9798d808994556ff9b.js.LICENSE.txt"
+    },
+    "main.90e4a7d8eb1fcf30d90d.js": {
+      "name": "main.90e4a7d8eb1fcf30d90d.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.90e4a7d8eb1fcf30d90d.js",
+      "publicPath": "/static/main.90e4a7d8eb1fcf30d90d.js"
+    },
+    "main.90e4a7d8eb1fcf30d90d.js.LICENSE.txt": {
+      "name": "main.90e4a7d8eb1fcf30d90d.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.90e4a7d8eb1fcf30d90d.js.LICENSE.txt",
+      "publicPath": "/static/main.90e4a7d8eb1fcf30d90d.js.LICENSE.txt"
+    },
+    "main.912a2237fb1ddebbcf19.js": {
+      "name": "main.912a2237fb1ddebbcf19.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.912a2237fb1ddebbcf19.js",
+      "publicPath": "/static/main.912a2237fb1ddebbcf19.js"
+    },
+    "main.912a2237fb1ddebbcf19.js.LICENSE.txt": {
+      "name": "main.912a2237fb1ddebbcf19.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.912a2237fb1ddebbcf19.js.LICENSE.txt",
+      "publicPath": "/static/main.912a2237fb1ddebbcf19.js.LICENSE.txt"
+    },
+    "main.92d89503a4318b697a19.js": {
+      "name": "main.92d89503a4318b697a19.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.92d89503a4318b697a19.js",
+      "publicPath": "/static/main.92d89503a4318b697a19.js"
+    },
+    "main.92d89503a4318b697a19.js.LICENSE.txt": {
+      "name": "main.92d89503a4318b697a19.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.92d89503a4318b697a19.js.LICENSE.txt",
+      "publicPath": "/static/main.92d89503a4318b697a19.js.LICENSE.txt"
+    },
+    "main.9543d8f09a9308441f72.js": {
+      "name": "main.9543d8f09a9308441f72.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.9543d8f09a9308441f72.js",
+      "publicPath": "/static/main.9543d8f09a9308441f72.js"
+    },
+    "main.9543d8f09a9308441f72.js.LICENSE.txt": {
+      "name": "main.9543d8f09a9308441f72.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.9543d8f09a9308441f72.js.LICENSE.txt",
+      "publicPath": "/static/main.9543d8f09a9308441f72.js.LICENSE.txt"
+    },
+    "main.976654331238fafd26a6.js": {
+      "name": "main.976654331238fafd26a6.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.976654331238fafd26a6.js",
+      "publicPath": "/static/main.976654331238fafd26a6.js"
+    },
+    "main.976654331238fafd26a6.js.LICENSE.txt": {
+      "name": "main.976654331238fafd26a6.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.976654331238fafd26a6.js.LICENSE.txt",
+      "publicPath": "/static/main.976654331238fafd26a6.js.LICENSE.txt"
+    },
+    "main.97f757d3666cd4870d51.js": {
+      "name": "main.97f757d3666cd4870d51.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.97f757d3666cd4870d51.js",
+      "publicPath": "/static/main.97f757d3666cd4870d51.js"
+    },
+    "main.97f757d3666cd4870d51.js.LICENSE.txt": {
+      "name": "main.97f757d3666cd4870d51.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.97f757d3666cd4870d51.js.LICENSE.txt",
+      "publicPath": "/static/main.97f757d3666cd4870d51.js.LICENSE.txt"
+    },
+    "main.98809943c3bec9502b0b.js": {
+      "name": "main.98809943c3bec9502b0b.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.98809943c3bec9502b0b.js",
+      "publicPath": "/static/main.98809943c3bec9502b0b.js"
+    },
+    "main.98809943c3bec9502b0b.js.LICENSE.txt": {
+      "name": "main.98809943c3bec9502b0b.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.98809943c3bec9502b0b.js.LICENSE.txt",
+      "publicPath": "/static/main.98809943c3bec9502b0b.js.LICENSE.txt"
+    },
+    "main.9a7151a320f53eaf0f48.js": {
+      "name": "main.9a7151a320f53eaf0f48.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.9a7151a320f53eaf0f48.js",
+      "publicPath": "/static/main.9a7151a320f53eaf0f48.js"
+    },
+    "main.9a7151a320f53eaf0f48.js.LICENSE.txt": {
+      "name": "main.9a7151a320f53eaf0f48.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.9a7151a320f53eaf0f48.js.LICENSE.txt",
+      "publicPath": "/static/main.9a7151a320f53eaf0f48.js.LICENSE.txt"
+    },
+    "main.9af6a192e127c88c11cb.js": {
+      "name": "main.9af6a192e127c88c11cb.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.9af6a192e127c88c11cb.js",
+      "publicPath": "/static/main.9af6a192e127c88c11cb.js"
+    },
+    "main.9af6a192e127c88c11cb.js.LICENSE.txt": {
+      "name": "main.9af6a192e127c88c11cb.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.9af6a192e127c88c11cb.js.LICENSE.txt",
+      "publicPath": "/static/main.9af6a192e127c88c11cb.js.LICENSE.txt"
+    },
+    "main.9ba2bbd2680e67122eec.js": {
+      "name": "main.9ba2bbd2680e67122eec.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.9ba2bbd2680e67122eec.js",
+      "publicPath": "/static/main.9ba2bbd2680e67122eec.js"
+    },
+    "main.9ba2bbd2680e67122eec.js.LICENSE.txt": {
+      "name": "main.9ba2bbd2680e67122eec.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.9ba2bbd2680e67122eec.js.LICENSE.txt",
+      "publicPath": "/static/main.9ba2bbd2680e67122eec.js.LICENSE.txt"
+    },
+    "main.9bdcb4484929d60f8bf6.js": {
+      "name": "main.9bdcb4484929d60f8bf6.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.9bdcb4484929d60f8bf6.js",
+      "publicPath": "/static/main.9bdcb4484929d60f8bf6.js"
+    },
+    "main.9bdcb4484929d60f8bf6.js.LICENSE.txt": {
+      "name": "main.9bdcb4484929d60f8bf6.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.9bdcb4484929d60f8bf6.js.LICENSE.txt",
+      "publicPath": "/static/main.9bdcb4484929d60f8bf6.js.LICENSE.txt"
+    },
+    "main.9dfb37c7412e2f2c83ee.js": {
+      "name": "main.9dfb37c7412e2f2c83ee.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.9dfb37c7412e2f2c83ee.js",
+      "publicPath": "/static/main.9dfb37c7412e2f2c83ee.js"
+    },
+    "main.9dfb37c7412e2f2c83ee.js.LICENSE.txt": {
+      "name": "main.9dfb37c7412e2f2c83ee.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.9dfb37c7412e2f2c83ee.js.LICENSE.txt",
+      "publicPath": "/static/main.9dfb37c7412e2f2c83ee.js.LICENSE.txt"
+    },
+    "main.9f2d216f9b8d45e5898b.js": {
+      "name": "main.9f2d216f9b8d45e5898b.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.9f2d216f9b8d45e5898b.js",
+      "publicPath": "/static/main.9f2d216f9b8d45e5898b.js"
+    },
+    "main.9f2d216f9b8d45e5898b.js.LICENSE.txt": {
+      "name": "main.9f2d216f9b8d45e5898b.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.9f2d216f9b8d45e5898b.js.LICENSE.txt",
+      "publicPath": "/static/main.9f2d216f9b8d45e5898b.js.LICENSE.txt"
+    },
+    "main.9f45b18352a2e0f87b4b.js": {
+      "name": "main.9f45b18352a2e0f87b4b.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.9f45b18352a2e0f87b4b.js",
+      "publicPath": "/static/main.9f45b18352a2e0f87b4b.js"
+    },
+    "main.9f45b18352a2e0f87b4b.js.LICENSE.txt": {
+      "name": "main.9f45b18352a2e0f87b4b.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.9f45b18352a2e0f87b4b.js.LICENSE.txt",
+      "publicPath": "/static/main.9f45b18352a2e0f87b4b.js.LICENSE.txt"
+    },
+    "main.9fd56329d7f45700d828.js": {
+      "name": "main.9fd56329d7f45700d828.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.9fd56329d7f45700d828.js",
+      "publicPath": "/static/main.9fd56329d7f45700d828.js"
+    },
+    "main.9fd56329d7f45700d828.js.LICENSE.txt": {
+      "name": "main.9fd56329d7f45700d828.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.9fd56329d7f45700d828.js.LICENSE.txt",
+      "publicPath": "/static/main.9fd56329d7f45700d828.js.LICENSE.txt"
+    },
+    "main.9ff239f4f9130d8ba526.js": {
+      "name": "main.9ff239f4f9130d8ba526.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.9ff239f4f9130d8ba526.js",
+      "publicPath": "/static/main.9ff239f4f9130d8ba526.js"
+    },
+    "main.9ff239f4f9130d8ba526.js.LICENSE.txt": {
+      "name": "main.9ff239f4f9130d8ba526.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.9ff239f4f9130d8ba526.js.LICENSE.txt",
+      "publicPath": "/static/main.9ff239f4f9130d8ba526.js.LICENSE.txt"
+    },
+    "main.a13c83f07582810abe13.js": {
+      "name": "main.a13c83f07582810abe13.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.a13c83f07582810abe13.js",
+      "publicPath": "/static/main.a13c83f07582810abe13.js"
+    },
+    "main.a13c83f07582810abe13.js.LICENSE.txt": {
+      "name": "main.a13c83f07582810abe13.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.a13c83f07582810abe13.js.LICENSE.txt",
+      "publicPath": "/static/main.a13c83f07582810abe13.js.LICENSE.txt"
+    },
+    "main.a19e00cbb3818fd3684a.js": {
+      "name": "main.a19e00cbb3818fd3684a.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.a19e00cbb3818fd3684a.js",
+      "publicPath": "/static/main.a19e00cbb3818fd3684a.js"
+    },
+    "main.a19e00cbb3818fd3684a.js.LICENSE.txt": {
+      "name": "main.a19e00cbb3818fd3684a.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.a19e00cbb3818fd3684a.js.LICENSE.txt",
+      "publicPath": "/static/main.a19e00cbb3818fd3684a.js.LICENSE.txt"
+    },
+    "main.a1aedf32ebbc5a0c5c5e.js": {
+      "name": "main.a1aedf32ebbc5a0c5c5e.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.a1aedf32ebbc5a0c5c5e.js",
+      "publicPath": "/static/main.a1aedf32ebbc5a0c5c5e.js"
+    },
+    "main.a1aedf32ebbc5a0c5c5e.js.LICENSE.txt": {
+      "name": "main.a1aedf32ebbc5a0c5c5e.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.a1aedf32ebbc5a0c5c5e.js.LICENSE.txt",
+      "publicPath": "/static/main.a1aedf32ebbc5a0c5c5e.js.LICENSE.txt"
+    },
+    "main.a1cb158c1b877e2617fd.js": {
+      "name": "main.a1cb158c1b877e2617fd.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.a1cb158c1b877e2617fd.js",
+      "publicPath": "/static/main.a1cb158c1b877e2617fd.js"
+    },
+    "main.a1cb158c1b877e2617fd.js.LICENSE.txt": {
+      "name": "main.a1cb158c1b877e2617fd.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.a1cb158c1b877e2617fd.js.LICENSE.txt",
+      "publicPath": "/static/main.a1cb158c1b877e2617fd.js.LICENSE.txt"
+    },
+    "main.a30d32551c027ea30b73.js": {
+      "name": "main.a30d32551c027ea30b73.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.a30d32551c027ea30b73.js",
+      "publicPath": "/static/main.a30d32551c027ea30b73.js"
+    },
+    "main.a30d32551c027ea30b73.js.LICENSE.txt": {
+      "name": "main.a30d32551c027ea30b73.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.a30d32551c027ea30b73.js.LICENSE.txt",
+      "publicPath": "/static/main.a30d32551c027ea30b73.js.LICENSE.txt"
+    },
+    "main.a49350190b4e7f97fddf.js": {
+      "name": "main.a49350190b4e7f97fddf.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.a49350190b4e7f97fddf.js",
+      "publicPath": "/static/main.a49350190b4e7f97fddf.js"
+    },
+    "main.a49350190b4e7f97fddf.js.LICENSE.txt": {
+      "name": "main.a49350190b4e7f97fddf.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.a49350190b4e7f97fddf.js.LICENSE.txt",
+      "publicPath": "/static/main.a49350190b4e7f97fddf.js.LICENSE.txt"
+    },
+    "main.a580a2c36684afa41aa0.js": {
+      "name": "main.a580a2c36684afa41aa0.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.a580a2c36684afa41aa0.js",
+      "publicPath": "/static/main.a580a2c36684afa41aa0.js"
+    },
+    "main.a580a2c36684afa41aa0.js.LICENSE.txt": {
+      "name": "main.a580a2c36684afa41aa0.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.a580a2c36684afa41aa0.js.LICENSE.txt",
+      "publicPath": "/static/main.a580a2c36684afa41aa0.js.LICENSE.txt"
+    },
+    "main.a6e178b6bfcb09ccc466.js": {
+      "name": "main.a6e178b6bfcb09ccc466.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.a6e178b6bfcb09ccc466.js",
+      "publicPath": "/static/main.a6e178b6bfcb09ccc466.js"
+    },
+    "main.a6e178b6bfcb09ccc466.js.LICENSE.txt": {
+      "name": "main.a6e178b6bfcb09ccc466.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.a6e178b6bfcb09ccc466.js.LICENSE.txt",
+      "publicPath": "/static/main.a6e178b6bfcb09ccc466.js.LICENSE.txt"
+    },
+    "main.a72b37ca68ccddd317ac.js": {
+      "name": "main.a72b37ca68ccddd317ac.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.a72b37ca68ccddd317ac.js",
+      "publicPath": "/static/main.a72b37ca68ccddd317ac.js"
+    },
+    "main.a72b37ca68ccddd317ac.js.LICENSE.txt": {
+      "name": "main.a72b37ca68ccddd317ac.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.a72b37ca68ccddd317ac.js.LICENSE.txt",
+      "publicPath": "/static/main.a72b37ca68ccddd317ac.js.LICENSE.txt"
+    },
+    "main.aa7639b0c45753f94578.js": {
+      "name": "main.aa7639b0c45753f94578.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.aa7639b0c45753f94578.js",
+      "publicPath": "/static/main.aa7639b0c45753f94578.js"
+    },
+    "main.aa7639b0c45753f94578.js.LICENSE.txt": {
+      "name": "main.aa7639b0c45753f94578.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.aa7639b0c45753f94578.js.LICENSE.txt",
+      "publicPath": "/static/main.aa7639b0c45753f94578.js.LICENSE.txt"
+    },
+    "main.ac3b2639cc18f6d14c1e.js": {
+      "name": "main.ac3b2639cc18f6d14c1e.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.ac3b2639cc18f6d14c1e.js",
+      "publicPath": "/static/main.ac3b2639cc18f6d14c1e.js"
+    },
+    "main.ac3b2639cc18f6d14c1e.js.LICENSE.txt": {
+      "name": "main.ac3b2639cc18f6d14c1e.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.ac3b2639cc18f6d14c1e.js.LICENSE.txt",
+      "publicPath": "/static/main.ac3b2639cc18f6d14c1e.js.LICENSE.txt"
+    },
+    "main.adc506e267e2be86cb68.js": {
+      "name": "main.adc506e267e2be86cb68.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.adc506e267e2be86cb68.js",
+      "publicPath": "/static/main.adc506e267e2be86cb68.js"
+    },
+    "main.adc506e267e2be86cb68.js.LICENSE.txt": {
+      "name": "main.adc506e267e2be86cb68.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.adc506e267e2be86cb68.js.LICENSE.txt",
+      "publicPath": "/static/main.adc506e267e2be86cb68.js.LICENSE.txt"
+    },
+    "main.ae0513553e6ca0c96dcd.js": {
+      "name": "main.ae0513553e6ca0c96dcd.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.ae0513553e6ca0c96dcd.js",
+      "publicPath": "/static/main.ae0513553e6ca0c96dcd.js"
+    },
+    "main.ae0513553e6ca0c96dcd.js.LICENSE.txt": {
+      "name": "main.ae0513553e6ca0c96dcd.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.ae0513553e6ca0c96dcd.js.LICENSE.txt",
+      "publicPath": "/static/main.ae0513553e6ca0c96dcd.js.LICENSE.txt"
+    },
+    "main.aef15e0c4a284534d076.js": {
+      "name": "main.aef15e0c4a284534d076.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.aef15e0c4a284534d076.js",
+      "publicPath": "/static/main.aef15e0c4a284534d076.js"
+    },
+    "main.aef15e0c4a284534d076.js.LICENSE.txt": {
+      "name": "main.aef15e0c4a284534d076.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.aef15e0c4a284534d076.js.LICENSE.txt",
+      "publicPath": "/static/main.aef15e0c4a284534d076.js.LICENSE.txt"
+    },
+    "main.afada3e5dc2181dd341c.js": {
+      "name": "main.afada3e5dc2181dd341c.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.afada3e5dc2181dd341c.js",
+      "publicPath": "/static/main.afada3e5dc2181dd341c.js"
+    },
+    "main.afada3e5dc2181dd341c.js.LICENSE.txt": {
+      "name": "main.afada3e5dc2181dd341c.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.afada3e5dc2181dd341c.js.LICENSE.txt",
+      "publicPath": "/static/main.afada3e5dc2181dd341c.js.LICENSE.txt"
+    },
+    "main.b30361400bd253e708b5.js": {
+      "name": "main.b30361400bd253e708b5.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.b30361400bd253e708b5.js",
+      "publicPath": "/static/main.b30361400bd253e708b5.js"
+    },
+    "main.b30361400bd253e708b5.js.LICENSE.txt": {
+      "name": "main.b30361400bd253e708b5.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.b30361400bd253e708b5.js.LICENSE.txt",
+      "publicPath": "/static/main.b30361400bd253e708b5.js.LICENSE.txt"
+    },
+    "main.b37a74ce32d6b0cbb3a1.js": {
+      "name": "main.b37a74ce32d6b0cbb3a1.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.b37a74ce32d6b0cbb3a1.js",
+      "publicPath": "/static/main.b37a74ce32d6b0cbb3a1.js"
+    },
+    "main.b37a74ce32d6b0cbb3a1.js.LICENSE.txt": {
+      "name": "main.b37a74ce32d6b0cbb3a1.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.b37a74ce32d6b0cbb3a1.js.LICENSE.txt",
+      "publicPath": "/static/main.b37a74ce32d6b0cbb3a1.js.LICENSE.txt"
+    },
+    "main.b402dba1e1c89fab301a.js": {
+      "name": "main.b402dba1e1c89fab301a.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.b402dba1e1c89fab301a.js",
+      "publicPath": "/static/main.b402dba1e1c89fab301a.js"
+    },
+    "main.b402dba1e1c89fab301a.js.LICENSE.txt": {
+      "name": "main.b402dba1e1c89fab301a.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.b402dba1e1c89fab301a.js.LICENSE.txt",
+      "publicPath": "/static/main.b402dba1e1c89fab301a.js.LICENSE.txt"
+    },
+    "main.b4c4f80cdb352d117c72.js": {
+      "name": "main.b4c4f80cdb352d117c72.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.b4c4f80cdb352d117c72.js",
+      "publicPath": "/static/main.b4c4f80cdb352d117c72.js"
+    },
+    "main.b4c4f80cdb352d117c72.js.LICENSE.txt": {
+      "name": "main.b4c4f80cdb352d117c72.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.b4c4f80cdb352d117c72.js.LICENSE.txt",
+      "publicPath": "/static/main.b4c4f80cdb352d117c72.js.LICENSE.txt"
+    },
+    "main.b4dfe2a82daabbecd113.js": {
+      "name": "main.b4dfe2a82daabbecd113.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.b4dfe2a82daabbecd113.js",
+      "publicPath": "/static/main.b4dfe2a82daabbecd113.js"
+    },
+    "main.b4dfe2a82daabbecd113.js.LICENSE.txt": {
+      "name": "main.b4dfe2a82daabbecd113.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.b4dfe2a82daabbecd113.js.LICENSE.txt",
+      "publicPath": "/static/main.b4dfe2a82daabbecd113.js.LICENSE.txt"
+    },
+    "main.b701a42b21c961797775.js": {
+      "name": "main.b701a42b21c961797775.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.b701a42b21c961797775.js",
+      "publicPath": "/static/main.b701a42b21c961797775.js"
+    },
+    "main.b701a42b21c961797775.js.LICENSE.txt": {
+      "name": "main.b701a42b21c961797775.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.b701a42b21c961797775.js.LICENSE.txt",
+      "publicPath": "/static/main.b701a42b21c961797775.js.LICENSE.txt"
+    },
+    "main.b7e439f5f45f5a43e6a8.js": {
+      "name": "main.b7e439f5f45f5a43e6a8.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.b7e439f5f45f5a43e6a8.js",
+      "publicPath": "/static/main.b7e439f5f45f5a43e6a8.js"
+    },
+    "main.b7e439f5f45f5a43e6a8.js.LICENSE.txt": {
+      "name": "main.b7e439f5f45f5a43e6a8.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.b7e439f5f45f5a43e6a8.js.LICENSE.txt",
+      "publicPath": "/static/main.b7e439f5f45f5a43e6a8.js.LICENSE.txt"
+    },
+    "main.b8ef5f74743b5c75a6e9.js": {
+      "name": "main.b8ef5f74743b5c75a6e9.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.b8ef5f74743b5c75a6e9.js",
+      "publicPath": "/static/main.b8ef5f74743b5c75a6e9.js"
+    },
+    "main.b8ef5f74743b5c75a6e9.js.LICENSE.txt": {
+      "name": "main.b8ef5f74743b5c75a6e9.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.b8ef5f74743b5c75a6e9.js.LICENSE.txt",
+      "publicPath": "/static/main.b8ef5f74743b5c75a6e9.js.LICENSE.txt"
+    },
+    "main.ba4311123b32636f43c9.js": {
+      "name": "main.ba4311123b32636f43c9.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.ba4311123b32636f43c9.js",
+      "publicPath": "/static/main.ba4311123b32636f43c9.js"
+    },
+    "main.ba4311123b32636f43c9.js.LICENSE.txt": {
+      "name": "main.ba4311123b32636f43c9.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.ba4311123b32636f43c9.js.LICENSE.txt",
+      "publicPath": "/static/main.ba4311123b32636f43c9.js.LICENSE.txt"
+    },
+    "main.bac01bf01c9b651ef82a.js": {
+      "name": "main.bac01bf01c9b651ef82a.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.bac01bf01c9b651ef82a.js",
+      "publicPath": "/static/main.bac01bf01c9b651ef82a.js"
+    },
+    "main.bac01bf01c9b651ef82a.js.LICENSE.txt": {
+      "name": "main.bac01bf01c9b651ef82a.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.bac01bf01c9b651ef82a.js.LICENSE.txt",
+      "publicPath": "/static/main.bac01bf01c9b651ef82a.js.LICENSE.txt"
+    },
+    "main.bb0cc611ed9689f14c43.js": {
+      "name": "main.bb0cc611ed9689f14c43.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.bb0cc611ed9689f14c43.js",
+      "publicPath": "/static/main.bb0cc611ed9689f14c43.js"
+    },
+    "main.bb0cc611ed9689f14c43.js.LICENSE.txt": {
+      "name": "main.bb0cc611ed9689f14c43.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.bb0cc611ed9689f14c43.js.LICENSE.txt",
+      "publicPath": "/static/main.bb0cc611ed9689f14c43.js.LICENSE.txt"
+    },
+    "main.bc14e5471250fbb11fa6.js": {
+      "name": "main.bc14e5471250fbb11fa6.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.bc14e5471250fbb11fa6.js",
+      "publicPath": "/static/main.bc14e5471250fbb11fa6.js"
+    },
+    "main.bc14e5471250fbb11fa6.js.LICENSE.txt": {
+      "name": "main.bc14e5471250fbb11fa6.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.bc14e5471250fbb11fa6.js.LICENSE.txt",
+      "publicPath": "/static/main.bc14e5471250fbb11fa6.js.LICENSE.txt"
+    },
+    "main.bc6e9f934e27fcaf4c85.js": {
+      "name": "main.bc6e9f934e27fcaf4c85.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.bc6e9f934e27fcaf4c85.js",
+      "publicPath": "/static/main.bc6e9f934e27fcaf4c85.js"
+    },
+    "main.bc6e9f934e27fcaf4c85.js.LICENSE.txt": {
+      "name": "main.bc6e9f934e27fcaf4c85.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.bc6e9f934e27fcaf4c85.js.LICENSE.txt",
+      "publicPath": "/static/main.bc6e9f934e27fcaf4c85.js.LICENSE.txt"
+    },
+    "main.bcad8cacdc01c01e1ab7.js": {
+      "name": "main.bcad8cacdc01c01e1ab7.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.bcad8cacdc01c01e1ab7.js",
+      "publicPath": "/static/main.bcad8cacdc01c01e1ab7.js"
+    },
+    "main.bcad8cacdc01c01e1ab7.js.LICENSE.txt": {
+      "name": "main.bcad8cacdc01c01e1ab7.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.bcad8cacdc01c01e1ab7.js.LICENSE.txt",
+      "publicPath": "/static/main.bcad8cacdc01c01e1ab7.js.LICENSE.txt"
+    },
+    "main.bccf521f5231276ffdf0.js": {
+      "name": "main.bccf521f5231276ffdf0.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.bccf521f5231276ffdf0.js",
+      "publicPath": "/static/main.bccf521f5231276ffdf0.js"
+    },
+    "main.bccf521f5231276ffdf0.js.LICENSE.txt": {
+      "name": "main.bccf521f5231276ffdf0.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.bccf521f5231276ffdf0.js.LICENSE.txt",
+      "publicPath": "/static/main.bccf521f5231276ffdf0.js.LICENSE.txt"
+    },
+    "main.bd43ce36c1f314774349.js": {
+      "name": "main.bd43ce36c1f314774349.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.bd43ce36c1f314774349.js",
+      "publicPath": "/static/main.bd43ce36c1f314774349.js"
+    },
+    "main.bd43ce36c1f314774349.js.LICENSE.txt": {
+      "name": "main.bd43ce36c1f314774349.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.bd43ce36c1f314774349.js.LICENSE.txt",
+      "publicPath": "/static/main.bd43ce36c1f314774349.js.LICENSE.txt"
+    },
+    "main.bd825cafbbb4b0270096.js": {
+      "name": "main.bd825cafbbb4b0270096.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.bd825cafbbb4b0270096.js",
+      "publicPath": "/static/main.bd825cafbbb4b0270096.js"
+    },
+    "main.bd825cafbbb4b0270096.js.LICENSE.txt": {
+      "name": "main.bd825cafbbb4b0270096.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.bd825cafbbb4b0270096.js.LICENSE.txt",
+      "publicPath": "/static/main.bd825cafbbb4b0270096.js.LICENSE.txt"
+    },
+    "main.bdf02641f6c408512476.js": {
+      "name": "main.bdf02641f6c408512476.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.bdf02641f6c408512476.js",
+      "publicPath": "/static/main.bdf02641f6c408512476.js"
+    },
+    "main.bdf02641f6c408512476.js.LICENSE.txt": {
+      "name": "main.bdf02641f6c408512476.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.bdf02641f6c408512476.js.LICENSE.txt",
+      "publicPath": "/static/main.bdf02641f6c408512476.js.LICENSE.txt"
+    },
+    "main.be645b7f4a6c1a78c359.js": {
+      "name": "main.be645b7f4a6c1a78c359.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.be645b7f4a6c1a78c359.js",
+      "publicPath": "/static/main.be645b7f4a6c1a78c359.js"
+    },
+    "main.be645b7f4a6c1a78c359.js.LICENSE.txt": {
+      "name": "main.be645b7f4a6c1a78c359.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.be645b7f4a6c1a78c359.js.LICENSE.txt",
+      "publicPath": "/static/main.be645b7f4a6c1a78c359.js.LICENSE.txt"
+    },
+    "main.beda2aa11863a29b1f8d.js": {
+      "name": "main.beda2aa11863a29b1f8d.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.beda2aa11863a29b1f8d.js",
+      "publicPath": "/static/main.beda2aa11863a29b1f8d.js"
+    },
+    "main.beda2aa11863a29b1f8d.js.LICENSE.txt": {
+      "name": "main.beda2aa11863a29b1f8d.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.beda2aa11863a29b1f8d.js.LICENSE.txt",
+      "publicPath": "/static/main.beda2aa11863a29b1f8d.js.LICENSE.txt"
+    },
+    "main.bf34f515640d20e11a49.js": {
+      "name": "main.bf34f515640d20e11a49.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.bf34f515640d20e11a49.js",
+      "publicPath": "/static/main.bf34f515640d20e11a49.js"
+    },
+    "main.bf34f515640d20e11a49.js.LICENSE.txt": {
+      "name": "main.bf34f515640d20e11a49.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.bf34f515640d20e11a49.js.LICENSE.txt",
+      "publicPath": "/static/main.bf34f515640d20e11a49.js.LICENSE.txt"
+    },
+    "main.bfb77b0326dad4e82182.js": {
+      "name": "main.bfb77b0326dad4e82182.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.bfb77b0326dad4e82182.js",
+      "publicPath": "/static/main.bfb77b0326dad4e82182.js"
+    },
+    "main.bfb77b0326dad4e82182.js.LICENSE.txt": {
+      "name": "main.bfb77b0326dad4e82182.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.bfb77b0326dad4e82182.js.LICENSE.txt",
+      "publicPath": "/static/main.bfb77b0326dad4e82182.js.LICENSE.txt"
+    },
+    "main.c1c56edf6089232d1633.js": {
+      "name": "main.c1c56edf6089232d1633.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.c1c56edf6089232d1633.js",
+      "publicPath": "/static/main.c1c56edf6089232d1633.js"
+    },
+    "main.c1c56edf6089232d1633.js.LICENSE.txt": {
+      "name": "main.c1c56edf6089232d1633.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.c1c56edf6089232d1633.js.LICENSE.txt",
+      "publicPath": "/static/main.c1c56edf6089232d1633.js.LICENSE.txt"
+    },
+    "main.c431c6d79b685e55cd2c.js": {
+      "name": "main.c431c6d79b685e55cd2c.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.c431c6d79b685e55cd2c.js",
+      "publicPath": "/static/main.c431c6d79b685e55cd2c.js"
+    },
+    "main.c431c6d79b685e55cd2c.js.LICENSE.txt": {
+      "name": "main.c431c6d79b685e55cd2c.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.c431c6d79b685e55cd2c.js.LICENSE.txt",
+      "publicPath": "/static/main.c431c6d79b685e55cd2c.js.LICENSE.txt"
+    },
+    "main.c4a7e019d05f54b64039.js": {
+      "name": "main.c4a7e019d05f54b64039.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.c4a7e019d05f54b64039.js",
+      "publicPath": "/static/main.c4a7e019d05f54b64039.js"
+    },
+    "main.c4a7e019d05f54b64039.js.LICENSE.txt": {
+      "name": "main.c4a7e019d05f54b64039.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.c4a7e019d05f54b64039.js.LICENSE.txt",
+      "publicPath": "/static/main.c4a7e019d05f54b64039.js.LICENSE.txt"
+    },
+    "main.c59c4dd7fb6ebb78702c.js": {
+      "name": "main.c59c4dd7fb6ebb78702c.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.c59c4dd7fb6ebb78702c.js",
+      "publicPath": "/static/main.c59c4dd7fb6ebb78702c.js"
+    },
+    "main.c59c4dd7fb6ebb78702c.js.LICENSE.txt": {
+      "name": "main.c59c4dd7fb6ebb78702c.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.c59c4dd7fb6ebb78702c.js.LICENSE.txt",
+      "publicPath": "/static/main.c59c4dd7fb6ebb78702c.js.LICENSE.txt"
+    },
+    "main.c5c8f680671ea91282d0.js": {
+      "name": "main.c5c8f680671ea91282d0.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.c5c8f680671ea91282d0.js",
+      "publicPath": "/static/main.c5c8f680671ea91282d0.js"
+    },
+    "main.c5c8f680671ea91282d0.js.LICENSE.txt": {
+      "name": "main.c5c8f680671ea91282d0.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.c5c8f680671ea91282d0.js.LICENSE.txt",
+      "publicPath": "/static/main.c5c8f680671ea91282d0.js.LICENSE.txt"
+    },
+    "main.c6b6e07dbaa842bb84ce.js": {
+      "name": "main.c6b6e07dbaa842bb84ce.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.c6b6e07dbaa842bb84ce.js",
+      "publicPath": "/static/main.c6b6e07dbaa842bb84ce.js"
+    },
+    "main.c6b6e07dbaa842bb84ce.js.LICENSE.txt": {
+      "name": "main.c6b6e07dbaa842bb84ce.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.c6b6e07dbaa842bb84ce.js.LICENSE.txt",
+      "publicPath": "/static/main.c6b6e07dbaa842bb84ce.js.LICENSE.txt"
+    },
+    "main.c7d76d8c329c742c96cb.js": {
+      "name": "main.c7d76d8c329c742c96cb.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.c7d76d8c329c742c96cb.js",
+      "publicPath": "/static/main.c7d76d8c329c742c96cb.js"
+    },
+    "main.c7d76d8c329c742c96cb.js.LICENSE.txt": {
+      "name": "main.c7d76d8c329c742c96cb.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.c7d76d8c329c742c96cb.js.LICENSE.txt",
+      "publicPath": "/static/main.c7d76d8c329c742c96cb.js.LICENSE.txt"
+    },
+    "main.ca495d275e881d6df5e2.js": {
+      "name": "main.ca495d275e881d6df5e2.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.ca495d275e881d6df5e2.js",
+      "publicPath": "/static/main.ca495d275e881d6df5e2.js"
+    },
+    "main.ca495d275e881d6df5e2.js.LICENSE.txt": {
+      "name": "main.ca495d275e881d6df5e2.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.ca495d275e881d6df5e2.js.LICENSE.txt",
+      "publicPath": "/static/main.ca495d275e881d6df5e2.js.LICENSE.txt"
+    },
+    "main.caedb21e6f7c1d321709.js": {
+      "name": "main.caedb21e6f7c1d321709.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.caedb21e6f7c1d321709.js",
+      "publicPath": "/static/main.caedb21e6f7c1d321709.js"
+    },
+    "main.caedb21e6f7c1d321709.js.LICENSE.txt": {
+      "name": "main.caedb21e6f7c1d321709.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.caedb21e6f7c1d321709.js.LICENSE.txt",
+      "publicPath": "/static/main.caedb21e6f7c1d321709.js.LICENSE.txt"
+    },
+    "main.cb22202f76af65d828f4.js": {
+      "name": "main.cb22202f76af65d828f4.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.cb22202f76af65d828f4.js",
+      "publicPath": "/static/main.cb22202f76af65d828f4.js"
+    },
+    "main.cb22202f76af65d828f4.js.LICENSE.txt": {
+      "name": "main.cb22202f76af65d828f4.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.cb22202f76af65d828f4.js.LICENSE.txt",
+      "publicPath": "/static/main.cb22202f76af65d828f4.js.LICENSE.txt"
+    },
+    "main.cb7f3601f87caa43c05d.js": {
+      "name": "main.cb7f3601f87caa43c05d.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.cb7f3601f87caa43c05d.js",
+      "publicPath": "/static/main.cb7f3601f87caa43c05d.js"
+    },
+    "main.cb7f3601f87caa43c05d.js.LICENSE.txt": {
+      "name": "main.cb7f3601f87caa43c05d.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.cb7f3601f87caa43c05d.js.LICENSE.txt",
+      "publicPath": "/static/main.cb7f3601f87caa43c05d.js.LICENSE.txt"
+    },
+    "main.ccf511986560c160eaf5.js": {
+      "name": "main.ccf511986560c160eaf5.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.ccf511986560c160eaf5.js",
+      "publicPath": "/static/main.ccf511986560c160eaf5.js"
+    },
+    "main.ccf511986560c160eaf5.js.LICENSE.txt": {
+      "name": "main.ccf511986560c160eaf5.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.ccf511986560c160eaf5.js.LICENSE.txt",
+      "publicPath": "/static/main.ccf511986560c160eaf5.js.LICENSE.txt"
+    },
+    "main.cea080ce9ac216577803.js": {
+      "name": "main.cea080ce9ac216577803.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.cea080ce9ac216577803.js",
+      "publicPath": "/static/main.cea080ce9ac216577803.js"
+    },
+    "main.cea080ce9ac216577803.js.LICENSE.txt": {
+      "name": "main.cea080ce9ac216577803.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.cea080ce9ac216577803.js.LICENSE.txt",
+      "publicPath": "/static/main.cea080ce9ac216577803.js.LICENSE.txt"
+    },
+    "main.d0bf1aae08cd06b8e300.js": {
+      "name": "main.d0bf1aae08cd06b8e300.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.d0bf1aae08cd06b8e300.js",
+      "publicPath": "/static/main.d0bf1aae08cd06b8e300.js"
+    },
+    "main.d0bf1aae08cd06b8e300.js.LICENSE.txt": {
+      "name": "main.d0bf1aae08cd06b8e300.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.d0bf1aae08cd06b8e300.js.LICENSE.txt",
+      "publicPath": "/static/main.d0bf1aae08cd06b8e300.js.LICENSE.txt"
+    },
+    "main.d10d6c53ca8c2e95a144.js": {
+      "name": "main.d10d6c53ca8c2e95a144.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.d10d6c53ca8c2e95a144.js",
+      "publicPath": "/static/main.d10d6c53ca8c2e95a144.js"
+    },
+    "main.d10d6c53ca8c2e95a144.js.LICENSE.txt": {
+      "name": "main.d10d6c53ca8c2e95a144.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.d10d6c53ca8c2e95a144.js.LICENSE.txt",
+      "publicPath": "/static/main.d10d6c53ca8c2e95a144.js.LICENSE.txt"
+    },
+    "main.d1383a0b05728f9662f0.js": {
+      "name": "main.d1383a0b05728f9662f0.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.d1383a0b05728f9662f0.js",
+      "publicPath": "/static/main.d1383a0b05728f9662f0.js"
+    },
+    "main.d1383a0b05728f9662f0.js.LICENSE.txt": {
+      "name": "main.d1383a0b05728f9662f0.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.d1383a0b05728f9662f0.js.LICENSE.txt",
+      "publicPath": "/static/main.d1383a0b05728f9662f0.js.LICENSE.txt"
+    },
+    "main.d1a17c1f280f3492e907.js": {
+      "name": "main.d1a17c1f280f3492e907.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.d1a17c1f280f3492e907.js",
+      "publicPath": "/static/main.d1a17c1f280f3492e907.js"
+    },
+    "main.d1a17c1f280f3492e907.js.LICENSE.txt": {
+      "name": "main.d1a17c1f280f3492e907.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.d1a17c1f280f3492e907.js.LICENSE.txt",
+      "publicPath": "/static/main.d1a17c1f280f3492e907.js.LICENSE.txt"
+    },
+    "main.d238a541a2f7f07e3cc8.js": {
+      "name": "main.d238a541a2f7f07e3cc8.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.d238a541a2f7f07e3cc8.js",
+      "publicPath": "/static/main.d238a541a2f7f07e3cc8.js"
+    },
+    "main.d238a541a2f7f07e3cc8.js.LICENSE.txt": {
+      "name": "main.d238a541a2f7f07e3cc8.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.d238a541a2f7f07e3cc8.js.LICENSE.txt",
+      "publicPath": "/static/main.d238a541a2f7f07e3cc8.js.LICENSE.txt"
+    },
+    "main.d410906c33607b4ab333.js": {
+      "name": "main.d410906c33607b4ab333.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.d410906c33607b4ab333.js",
+      "publicPath": "/static/main.d410906c33607b4ab333.js"
+    },
+    "main.d410906c33607b4ab333.js.LICENSE.txt": {
+      "name": "main.d410906c33607b4ab333.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.d410906c33607b4ab333.js.LICENSE.txt",
+      "publicPath": "/static/main.d410906c33607b4ab333.js.LICENSE.txt"
+    },
+    "main.d432cd9924a03e4ed498.js": {
+      "name": "main.d432cd9924a03e4ed498.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.d432cd9924a03e4ed498.js",
+      "publicPath": "/static/main.d432cd9924a03e4ed498.js"
+    },
+    "main.d432cd9924a03e4ed498.js.LICENSE.txt": {
+      "name": "main.d432cd9924a03e4ed498.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.d432cd9924a03e4ed498.js.LICENSE.txt",
+      "publicPath": "/static/main.d432cd9924a03e4ed498.js.LICENSE.txt"
+    },
+    "main.d60a07e062105075f178.js": {
+      "name": "main.d60a07e062105075f178.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.d60a07e062105075f178.js",
+      "publicPath": "/static/main.d60a07e062105075f178.js"
+    },
+    "main.d60a07e062105075f178.js.LICENSE.txt": {
+      "name": "main.d60a07e062105075f178.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.d60a07e062105075f178.js.LICENSE.txt",
+      "publicPath": "/static/main.d60a07e062105075f178.js.LICENSE.txt"
+    },
+    "main.d91269047a38fc4df8f3.js": {
+      "name": "main.d91269047a38fc4df8f3.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.d91269047a38fc4df8f3.js",
+      "publicPath": "/static/main.d91269047a38fc4df8f3.js"
+    },
+    "main.d91269047a38fc4df8f3.js.LICENSE.txt": {
+      "name": "main.d91269047a38fc4df8f3.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.d91269047a38fc4df8f3.js.LICENSE.txt",
+      "publicPath": "/static/main.d91269047a38fc4df8f3.js.LICENSE.txt"
+    },
+    "main.dad231a796b72a5c8e4d.js": {
+      "name": "main.dad231a796b72a5c8e4d.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.dad231a796b72a5c8e4d.js",
+      "publicPath": "/static/main.dad231a796b72a5c8e4d.js"
+    },
+    "main.dad231a796b72a5c8e4d.js.LICENSE.txt": {
+      "name": "main.dad231a796b72a5c8e4d.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.dad231a796b72a5c8e4d.js.LICENSE.txt",
+      "publicPath": "/static/main.dad231a796b72a5c8e4d.js.LICENSE.txt"
+    },
+    "main.dc73203c7344b8523ccf.js": {
+      "name": "main.dc73203c7344b8523ccf.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.dc73203c7344b8523ccf.js",
+      "publicPath": "/static/main.dc73203c7344b8523ccf.js"
+    },
+    "main.dc73203c7344b8523ccf.js.LICENSE.txt": {
+      "name": "main.dc73203c7344b8523ccf.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.dc73203c7344b8523ccf.js.LICENSE.txt",
+      "publicPath": "/static/main.dc73203c7344b8523ccf.js.LICENSE.txt"
+    },
+    "main.dcafa2a709b129a66d7e.js": {
+      "name": "main.dcafa2a709b129a66d7e.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.dcafa2a709b129a66d7e.js",
+      "publicPath": "/static/main.dcafa2a709b129a66d7e.js"
+    },
+    "main.dcafa2a709b129a66d7e.js.LICENSE.txt": {
+      "name": "main.dcafa2a709b129a66d7e.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.dcafa2a709b129a66d7e.js.LICENSE.txt",
+      "publicPath": "/static/main.dcafa2a709b129a66d7e.js.LICENSE.txt"
+    },
+    "main.ddcb3bc971b74ce3a0b6.js": {
+      "name": "main.ddcb3bc971b74ce3a0b6.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.ddcb3bc971b74ce3a0b6.js",
+      "publicPath": "/static/main.ddcb3bc971b74ce3a0b6.js"
+    },
+    "main.ddcb3bc971b74ce3a0b6.js.LICENSE.txt": {
+      "name": "main.ddcb3bc971b74ce3a0b6.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.ddcb3bc971b74ce3a0b6.js.LICENSE.txt",
+      "publicPath": "/static/main.ddcb3bc971b74ce3a0b6.js.LICENSE.txt"
+    },
+    "main.e0810967e12d02639e89.js": {
+      "name": "main.e0810967e12d02639e89.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.e0810967e12d02639e89.js",
+      "publicPath": "/static/main.e0810967e12d02639e89.js"
+    },
+    "main.e0810967e12d02639e89.js.LICENSE.txt": {
+      "name": "main.e0810967e12d02639e89.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.e0810967e12d02639e89.js.LICENSE.txt",
+      "publicPath": "/static/main.e0810967e12d02639e89.js.LICENSE.txt"
+    },
+    "main.e087891246170742640f.js": {
+      "name": "main.e087891246170742640f.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.e087891246170742640f.js",
+      "publicPath": "/static/main.e087891246170742640f.js"
+    },
+    "main.e087891246170742640f.js.LICENSE.txt": {
+      "name": "main.e087891246170742640f.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.e087891246170742640f.js.LICENSE.txt",
+      "publicPath": "/static/main.e087891246170742640f.js.LICENSE.txt"
+    },
+    "main.e107ccccc9b336428e71.js": {
+      "name": "main.e107ccccc9b336428e71.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.e107ccccc9b336428e71.js",
+      "publicPath": "/static/main.e107ccccc9b336428e71.js"
+    },
+    "main.e107ccccc9b336428e71.js.LICENSE.txt": {
+      "name": "main.e107ccccc9b336428e71.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.e107ccccc9b336428e71.js.LICENSE.txt",
+      "publicPath": "/static/main.e107ccccc9b336428e71.js.LICENSE.txt"
+    },
+    "main.e2b0ac129ed0d762eb11.js": {
+      "name": "main.e2b0ac129ed0d762eb11.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.e2b0ac129ed0d762eb11.js",
+      "publicPath": "/static/main.e2b0ac129ed0d762eb11.js"
+    },
+    "main.e2b0ac129ed0d762eb11.js.LICENSE.txt": {
+      "name": "main.e2b0ac129ed0d762eb11.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.e2b0ac129ed0d762eb11.js.LICENSE.txt",
+      "publicPath": "/static/main.e2b0ac129ed0d762eb11.js.LICENSE.txt"
+    },
+    "main.e333b9262c1d928294a9.js": {
+      "name": "main.e333b9262c1d928294a9.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.e333b9262c1d928294a9.js",
+      "publicPath": "/static/main.e333b9262c1d928294a9.js"
+    },
+    "main.e333b9262c1d928294a9.js.LICENSE.txt": {
+      "name": "main.e333b9262c1d928294a9.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.e333b9262c1d928294a9.js.LICENSE.txt",
+      "publicPath": "/static/main.e333b9262c1d928294a9.js.LICENSE.txt"
+    },
+    "main.e4180fb94d12b7472595.js": {
+      "name": "main.e4180fb94d12b7472595.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.e4180fb94d12b7472595.js",
+      "publicPath": "/static/main.e4180fb94d12b7472595.js"
+    },
+    "main.e4180fb94d12b7472595.js.LICENSE.txt": {
+      "name": "main.e4180fb94d12b7472595.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.e4180fb94d12b7472595.js.LICENSE.txt",
+      "publicPath": "/static/main.e4180fb94d12b7472595.js.LICENSE.txt"
+    },
+    "main.e5ffbf10f2dc03b6fbb2.js": {
+      "name": "main.e5ffbf10f2dc03b6fbb2.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.e5ffbf10f2dc03b6fbb2.js",
+      "publicPath": "/static/main.e5ffbf10f2dc03b6fbb2.js"
+    },
+    "main.e5ffbf10f2dc03b6fbb2.js.LICENSE.txt": {
+      "name": "main.e5ffbf10f2dc03b6fbb2.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.e5ffbf10f2dc03b6fbb2.js.LICENSE.txt",
+      "publicPath": "/static/main.e5ffbf10f2dc03b6fbb2.js.LICENSE.txt"
+    },
+    "main.e74ed8e68fef3e195c2b.js": {
+      "name": "main.e74ed8e68fef3e195c2b.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.e74ed8e68fef3e195c2b.js",
+      "publicPath": "/static/main.e74ed8e68fef3e195c2b.js"
+    },
+    "main.e74ed8e68fef3e195c2b.js.LICENSE.txt": {
+      "name": "main.e74ed8e68fef3e195c2b.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.e74ed8e68fef3e195c2b.js.LICENSE.txt",
+      "publicPath": "/static/main.e74ed8e68fef3e195c2b.js.LICENSE.txt"
+    },
+    "main.e79ef6b26ce4066f59b3.js": {
+      "name": "main.e79ef6b26ce4066f59b3.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.e79ef6b26ce4066f59b3.js",
+      "publicPath": "/static/main.e79ef6b26ce4066f59b3.js"
+    },
+    "main.e79ef6b26ce4066f59b3.js.LICENSE.txt": {
+      "name": "main.e79ef6b26ce4066f59b3.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.e79ef6b26ce4066f59b3.js.LICENSE.txt",
+      "publicPath": "/static/main.e79ef6b26ce4066f59b3.js.LICENSE.txt"
+    },
+    "main.e81689d704f605530dd7.js": {
+      "name": "main.e81689d704f605530dd7.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.e81689d704f605530dd7.js",
+      "publicPath": "/static/main.e81689d704f605530dd7.js"
+    },
+    "main.e81689d704f605530dd7.js.LICENSE.txt": {
+      "name": "main.e81689d704f605530dd7.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.e81689d704f605530dd7.js.LICENSE.txt",
+      "publicPath": "/static/main.e81689d704f605530dd7.js.LICENSE.txt"
+    },
+    "main.e874642f735c43c556bf.js": {
+      "name": "main.e874642f735c43c556bf.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.e874642f735c43c556bf.js",
+      "publicPath": "/static/main.e874642f735c43c556bf.js"
+    },
+    "main.e874642f735c43c556bf.js.LICENSE.txt": {
+      "name": "main.e874642f735c43c556bf.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.e874642f735c43c556bf.js.LICENSE.txt",
+      "publicPath": "/static/main.e874642f735c43c556bf.js.LICENSE.txt"
+    },
+    "main.e8e547ffbc0d6530a111.js": {
+      "name": "main.e8e547ffbc0d6530a111.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.e8e547ffbc0d6530a111.js",
+      "publicPath": "/static/main.e8e547ffbc0d6530a111.js"
+    },
+    "main.e8e547ffbc0d6530a111.js.LICENSE.txt": {
+      "name": "main.e8e547ffbc0d6530a111.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.e8e547ffbc0d6530a111.js.LICENSE.txt",
+      "publicPath": "/static/main.e8e547ffbc0d6530a111.js.LICENSE.txt"
+    },
+    "main.e98096d7f26f984785e9.js": {
+      "name": "main.e98096d7f26f984785e9.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.e98096d7f26f984785e9.js",
+      "publicPath": "/static/main.e98096d7f26f984785e9.js"
+    },
+    "main.e98096d7f26f984785e9.js.LICENSE.txt": {
+      "name": "main.e98096d7f26f984785e9.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.e98096d7f26f984785e9.js.LICENSE.txt",
+      "publicPath": "/static/main.e98096d7f26f984785e9.js.LICENSE.txt"
+    },
+    "main.ec0aceb6f0cef25b1d6b.js": {
+      "name": "main.ec0aceb6f0cef25b1d6b.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.ec0aceb6f0cef25b1d6b.js",
+      "publicPath": "/static/main.ec0aceb6f0cef25b1d6b.js"
+    },
+    "main.ec0aceb6f0cef25b1d6b.js.LICENSE.txt": {
+      "name": "main.ec0aceb6f0cef25b1d6b.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.ec0aceb6f0cef25b1d6b.js.LICENSE.txt",
+      "publicPath": "/static/main.ec0aceb6f0cef25b1d6b.js.LICENSE.txt"
+    },
+    "main.ec7b842507c11c08b286.js": {
+      "name": "main.ec7b842507c11c08b286.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.ec7b842507c11c08b286.js",
+      "publicPath": "/static/main.ec7b842507c11c08b286.js"
+    },
+    "main.ec7b842507c11c08b286.js.LICENSE.txt": {
+      "name": "main.ec7b842507c11c08b286.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.ec7b842507c11c08b286.js.LICENSE.txt",
+      "publicPath": "/static/main.ec7b842507c11c08b286.js.LICENSE.txt"
+    },
+    "main.ecb9fc3eed5121ce07ec.js": {
+      "name": "main.ecb9fc3eed5121ce07ec.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.ecb9fc3eed5121ce07ec.js",
+      "publicPath": "/static/main.ecb9fc3eed5121ce07ec.js"
+    },
+    "main.ecb9fc3eed5121ce07ec.js.LICENSE.txt": {
+      "name": "main.ecb9fc3eed5121ce07ec.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.ecb9fc3eed5121ce07ec.js.LICENSE.txt",
+      "publicPath": "/static/main.ecb9fc3eed5121ce07ec.js.LICENSE.txt"
+    },
+    "main.ed631f69f5e662061e3d.js": {
+      "name": "main.ed631f69f5e662061e3d.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.ed631f69f5e662061e3d.js",
+      "publicPath": "/static/main.ed631f69f5e662061e3d.js"
+    },
+    "main.ed631f69f5e662061e3d.js.LICENSE.txt": {
+      "name": "main.ed631f69f5e662061e3d.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.ed631f69f5e662061e3d.js.LICENSE.txt",
+      "publicPath": "/static/main.ed631f69f5e662061e3d.js.LICENSE.txt"
+    },
+    "main.f062ed9b675098e6368e.js": {
+      "name": "main.f062ed9b675098e6368e.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.f062ed9b675098e6368e.js",
+      "publicPath": "/static/main.f062ed9b675098e6368e.js"
+    },
+    "main.f062ed9b675098e6368e.js.LICENSE.txt": {
+      "name": "main.f062ed9b675098e6368e.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.f062ed9b675098e6368e.js.LICENSE.txt",
+      "publicPath": "/static/main.f062ed9b675098e6368e.js.LICENSE.txt"
+    },
+    "main.f1ae236733bf51dcc1ac.js": {
+      "name": "main.f1ae236733bf51dcc1ac.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.f1ae236733bf51dcc1ac.js",
+      "publicPath": "/static/main.f1ae236733bf51dcc1ac.js"
+    },
+    "main.f1ae236733bf51dcc1ac.js.LICENSE.txt": {
+      "name": "main.f1ae236733bf51dcc1ac.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.f1ae236733bf51dcc1ac.js.LICENSE.txt",
+      "publicPath": "/static/main.f1ae236733bf51dcc1ac.js.LICENSE.txt"
+    },
+    "main.f1b9bba072994f8b4d57.js": {
+      "name": "main.f1b9bba072994f8b4d57.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.f1b9bba072994f8b4d57.js",
+      "publicPath": "/static/main.f1b9bba072994f8b4d57.js"
+    },
+    "main.f1b9bba072994f8b4d57.js.LICENSE.txt": {
+      "name": "main.f1b9bba072994f8b4d57.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.f1b9bba072994f8b4d57.js.LICENSE.txt",
+      "publicPath": "/static/main.f1b9bba072994f8b4d57.js.LICENSE.txt"
+    },
+    "main.f21049e429ecdcae3e24.js": {
+      "name": "main.f21049e429ecdcae3e24.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.f21049e429ecdcae3e24.js",
+      "publicPath": "/static/main.f21049e429ecdcae3e24.js"
+    },
+    "main.f21049e429ecdcae3e24.js.LICENSE.txt": {
+      "name": "main.f21049e429ecdcae3e24.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.f21049e429ecdcae3e24.js.LICENSE.txt",
+      "publicPath": "/static/main.f21049e429ecdcae3e24.js.LICENSE.txt"
+    },
+    "main.f234ab5e169c37b1847e.js": {
+      "name": "main.f234ab5e169c37b1847e.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.f234ab5e169c37b1847e.js",
+      "publicPath": "/static/main.f234ab5e169c37b1847e.js"
+    },
+    "main.f234ab5e169c37b1847e.js.LICENSE.txt": {
+      "name": "main.f234ab5e169c37b1847e.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.f234ab5e169c37b1847e.js.LICENSE.txt",
+      "publicPath": "/static/main.f234ab5e169c37b1847e.js.LICENSE.txt"
+    },
+    "main.f395431ac948784d15c0.js": {
+      "name": "main.f395431ac948784d15c0.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.f395431ac948784d15c0.js",
+      "publicPath": "/static/main.f395431ac948784d15c0.js"
+    },
+    "main.f395431ac948784d15c0.js.LICENSE.txt": {
+      "name": "main.f395431ac948784d15c0.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.f395431ac948784d15c0.js.LICENSE.txt",
+      "publicPath": "/static/main.f395431ac948784d15c0.js.LICENSE.txt"
+    },
+    "main.f57c6027a2be5cb0b8c0.js": {
+      "name": "main.f57c6027a2be5cb0b8c0.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.f57c6027a2be5cb0b8c0.js",
+      "publicPath": "/static/main.f57c6027a2be5cb0b8c0.js"
+    },
+    "main.f57c6027a2be5cb0b8c0.js.LICENSE.txt": {
+      "name": "main.f57c6027a2be5cb0b8c0.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.f57c6027a2be5cb0b8c0.js.LICENSE.txt",
+      "publicPath": "/static/main.f57c6027a2be5cb0b8c0.js.LICENSE.txt"
+    },
+    "main.f595c81fb4191227df2f.js": {
+      "name": "main.f595c81fb4191227df2f.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.f595c81fb4191227df2f.js",
+      "publicPath": "/static/main.f595c81fb4191227df2f.js"
+    },
+    "main.f595c81fb4191227df2f.js.LICENSE.txt": {
+      "name": "main.f595c81fb4191227df2f.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.f595c81fb4191227df2f.js.LICENSE.txt",
+      "publicPath": "/static/main.f595c81fb4191227df2f.js.LICENSE.txt"
+    },
+    "main.f5d11e5290ba1101682d.js": {
+      "name": "main.f5d11e5290ba1101682d.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.f5d11e5290ba1101682d.js",
+      "publicPath": "/static/main.f5d11e5290ba1101682d.js"
+    },
+    "main.f5d11e5290ba1101682d.js.LICENSE.txt": {
+      "name": "main.f5d11e5290ba1101682d.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.f5d11e5290ba1101682d.js.LICENSE.txt",
+      "publicPath": "/static/main.f5d11e5290ba1101682d.js.LICENSE.txt"
+    },
+    "main.f5e9d2ed93deccbfaa61.js": {
+      "name": "main.f5e9d2ed93deccbfaa61.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.f5e9d2ed93deccbfaa61.js",
+      "publicPath": "/static/main.f5e9d2ed93deccbfaa61.js"
+    },
+    "main.f5e9d2ed93deccbfaa61.js.LICENSE.txt": {
+      "name": "main.f5e9d2ed93deccbfaa61.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.f5e9d2ed93deccbfaa61.js.LICENSE.txt",
+      "publicPath": "/static/main.f5e9d2ed93deccbfaa61.js.LICENSE.txt"
+    },
+    "main.f697bcb9dbe2dfbfee62.js": {
+      "name": "main.f697bcb9dbe2dfbfee62.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.f697bcb9dbe2dfbfee62.js",
+      "publicPath": "/static/main.f697bcb9dbe2dfbfee62.js"
+    },
+    "main.f697bcb9dbe2dfbfee62.js.LICENSE.txt": {
+      "name": "main.f697bcb9dbe2dfbfee62.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.f697bcb9dbe2dfbfee62.js.LICENSE.txt",
+      "publicPath": "/static/main.f697bcb9dbe2dfbfee62.js.LICENSE.txt"
+    },
+    "main.f6d42696b253d349a389.js": {
+      "name": "main.f6d42696b253d349a389.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.f6d42696b253d349a389.js",
+      "publicPath": "/static/main.f6d42696b253d349a389.js"
+    },
+    "main.f6d42696b253d349a389.js.LICENSE.txt": {
+      "name": "main.f6d42696b253d349a389.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.f6d42696b253d349a389.js.LICENSE.txt",
+      "publicPath": "/static/main.f6d42696b253d349a389.js.LICENSE.txt"
+    },
+    "main.f8645bb050126c87d171.js": {
+      "name": "main.f8645bb050126c87d171.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.f8645bb050126c87d171.js",
+      "publicPath": "/static/main.f8645bb050126c87d171.js"
+    },
+    "main.f8645bb050126c87d171.js.LICENSE.txt": {
+      "name": "main.f8645bb050126c87d171.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.f8645bb050126c87d171.js.LICENSE.txt",
+      "publicPath": "/static/main.f8645bb050126c87d171.js.LICENSE.txt"
+    },
+    "main.f8b338b67d80adba0d12.js": {
+      "name": "main.f8b338b67d80adba0d12.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.f8b338b67d80adba0d12.js",
+      "publicPath": "/static/main.f8b338b67d80adba0d12.js"
+    },
+    "main.f8b338b67d80adba0d12.js.LICENSE.txt": {
+      "name": "main.f8b338b67d80adba0d12.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.f8b338b67d80adba0d12.js.LICENSE.txt",
+      "publicPath": "/static/main.f8b338b67d80adba0d12.js.LICENSE.txt"
+    },
+    "main.f987568c40ef1064b2b8.js": {
+      "name": "main.f987568c40ef1064b2b8.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.f987568c40ef1064b2b8.js",
+      "publicPath": "/static/main.f987568c40ef1064b2b8.js"
+    },
+    "main.f987568c40ef1064b2b8.js.LICENSE.txt": {
+      "name": "main.f987568c40ef1064b2b8.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.f987568c40ef1064b2b8.js.LICENSE.txt",
+      "publicPath": "/static/main.f987568c40ef1064b2b8.js.LICENSE.txt"
+    },
+    "main.fa341705535dfb3b3ef0.js": {
+      "name": "main.fa341705535dfb3b3ef0.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.fa341705535dfb3b3ef0.js",
+      "publicPath": "/static/main.fa341705535dfb3b3ef0.js"
+    },
+    "main.fa341705535dfb3b3ef0.js.LICENSE.txt": {
+      "name": "main.fa341705535dfb3b3ef0.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.fa341705535dfb3b3ef0.js.LICENSE.txt",
+      "publicPath": "/static/main.fa341705535dfb3b3ef0.js.LICENSE.txt"
+    },
+    "main.fa50b9a0a5400056c42a.js": {
+      "name": "main.fa50b9a0a5400056c42a.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.fa50b9a0a5400056c42a.js",
+      "publicPath": "/static/main.fa50b9a0a5400056c42a.js"
+    },
+    "main.fa50b9a0a5400056c42a.js.LICENSE.txt": {
+      "name": "main.fa50b9a0a5400056c42a.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.fa50b9a0a5400056c42a.js.LICENSE.txt",
+      "publicPath": "/static/main.fa50b9a0a5400056c42a.js.LICENSE.txt"
+    },
+    "main.fa685bc9ee7041f1f765.js": {
+      "name": "main.fa685bc9ee7041f1f765.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.fa685bc9ee7041f1f765.js",
+      "publicPath": "/static/main.fa685bc9ee7041f1f765.js"
+    },
+    "main.fa685bc9ee7041f1f765.js.LICENSE.txt": {
+      "name": "main.fa685bc9ee7041f1f765.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.fa685bc9ee7041f1f765.js.LICENSE.txt",
+      "publicPath": "/static/main.fa685bc9ee7041f1f765.js.LICENSE.txt"
+    },
+    "main.fb04aa0d0030e0feace6.js": {
+      "name": "main.fb04aa0d0030e0feace6.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.fb04aa0d0030e0feace6.js",
+      "publicPath": "/static/main.fb04aa0d0030e0feace6.js"
+    },
+    "main.fb04aa0d0030e0feace6.js.LICENSE.txt": {
+      "name": "main.fb04aa0d0030e0feace6.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.fb04aa0d0030e0feace6.js.LICENSE.txt",
+      "publicPath": "/static/main.fb04aa0d0030e0feace6.js.LICENSE.txt"
+    },
+    "main.fb423b621a6e11e69ead.js": {
+      "name": "main.fb423b621a6e11e69ead.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.fb423b621a6e11e69ead.js",
+      "publicPath": "/static/main.fb423b621a6e11e69ead.js"
+    },
+    "main.fb423b621a6e11e69ead.js.LICENSE.txt": {
+      "name": "main.fb423b621a6e11e69ead.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.fb423b621a6e11e69ead.js.LICENSE.txt",
+      "publicPath": "/static/main.fb423b621a6e11e69ead.js.LICENSE.txt"
+    },
+    "main.fbc2f342167c2653172f.js": {
+      "name": "main.fbc2f342167c2653172f.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.fbc2f342167c2653172f.js",
+      "publicPath": "/static/main.fbc2f342167c2653172f.js"
+    },
+    "main.fbc2f342167c2653172f.js.LICENSE.txt": {
+      "name": "main.fbc2f342167c2653172f.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.fbc2f342167c2653172f.js.LICENSE.txt",
+      "publicPath": "/static/main.fbc2f342167c2653172f.js.LICENSE.txt"
+    },
+    "main.fc147023e25a86ccb337.js": {
+      "name": "main.fc147023e25a86ccb337.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.fc147023e25a86ccb337.js",
+      "publicPath": "/static/main.fc147023e25a86ccb337.js"
+    },
+    "main.fc147023e25a86ccb337.js.LICENSE.txt": {
+      "name": "main.fc147023e25a86ccb337.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.fc147023e25a86ccb337.js.LICENSE.txt",
+      "publicPath": "/static/main.fc147023e25a86ccb337.js.LICENSE.txt"
+    },
+    "main.fe9d545638f3c3617603.js": {
+      "name": "main.fe9d545638f3c3617603.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.fe9d545638f3c3617603.js",
+      "publicPath": "/static/main.fe9d545638f3c3617603.js"
+    },
+    "main.fe9d545638f3c3617603.js.LICENSE.txt": {
+      "name": "main.fe9d545638f3c3617603.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.fe9d545638f3c3617603.js.LICENSE.txt",
+      "publicPath": "/static/main.fe9d545638f3c3617603.js.LICENSE.txt"
+    },
+    "main.febc2b9f6afd955eda69.js": {
+      "name": "main.febc2b9f6afd955eda69.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.febc2b9f6afd955eda69.js",
+      "publicPath": "/static/main.febc2b9f6afd955eda69.js"
+    },
+    "main.febc2b9f6afd955eda69.js.LICENSE.txt": {
+      "name": "main.febc2b9f6afd955eda69.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.febc2b9f6afd955eda69.js.LICENSE.txt",
+      "publicPath": "/static/main.febc2b9f6afd955eda69.js.LICENSE.txt"
+    },
+    "main.ff2ff2240d9feca1e9b5.js": {
+      "name": "main.ff2ff2240d9feca1e9b5.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.ff2ff2240d9feca1e9b5.js",
+      "publicPath": "/static/main.ff2ff2240d9feca1e9b5.js"
+    },
+    "main.ff2ff2240d9feca1e9b5.js.LICENSE.txt": {
+      "name": "main.ff2ff2240d9feca1e9b5.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.ff2ff2240d9feca1e9b5.js.LICENSE.txt",
+      "publicPath": "/static/main.ff2ff2240d9feca1e9b5.js.LICENSE.txt"
+    },
+    "main.ffd58d0bd9e7d4f6a330.js": {
+      "name": "main.ffd58d0bd9e7d4f6a330.js",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.ffd58d0bd9e7d4f6a330.js",
+      "publicPath": "/static/main.ffd58d0bd9e7d4f6a330.js"
+    },
+    "main.ffd58d0bd9e7d4f6a330.js.LICENSE.txt": {
+      "name": "main.ffd58d0bd9e7d4f6a330.js.LICENSE.txt",
+      "path": "C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\static\\main.ffd58d0bd9e7d4f6a330.js.LICENSE.txt",
+      "publicPath": "/static/main.ffd58d0bd9e7d4f6a330.js.LICENSE.txt"
+    }
+  },
+  "chunks": {
+    "main": [
+      "main.ec7b842507c11c08b286.js"
+    ]
+  },
+  "publicPath": "/static/",
+  "error": "ModuleBuildError",
+  "message": "Module build failed (from ./node_modules/css-loader/dist/cjs.js):\nCssSyntaxError\n\n(162:23) C:\\Users\\nguye\\Personal Coding\\Projects\\GroceryListProject\\frontend\\src\\index.css Missed semicolon\n\n  160 |     border-top: none;\n  161 |     border-bottom: solid;\n> 162 |     border-width: thin\n      |                       ^\n  163 |     background-color: white;\n  164 |     float: left;\n"
+}

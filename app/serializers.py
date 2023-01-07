@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from .model import ListItem
+from .models import ListItem
 
 class ListItemSerializer(serializers.ModelSerializer):
     class Meta:
